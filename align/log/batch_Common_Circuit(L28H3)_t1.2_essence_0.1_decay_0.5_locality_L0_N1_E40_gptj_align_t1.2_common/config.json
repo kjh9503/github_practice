@@ -1,0 +1,15 @@
+{
+    "inj_layer": 0,
+    "num_edit": 1,
+    "epoch": 40,
+    "model_name": "../finetuned_models/gpt-j-6B_t1_chain_name_gptj_full",
+    "locality_test": true,
+    "kl_factor": 0.1,
+    "decay_factor": 0.5,
+    "note": "gptj_align_t1.2_common",
+    "num_circuit_head": 3,
+    "num_circuit_layer": 28,
+    "circuit_path": "./circuits/peacok_gptj_t1_chain_1p.pt",
+    "lr": 0.0001,
+    "time": "t1.2"
+}

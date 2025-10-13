@@ -1,0 +1,2321 @@
+[Frances Travis has a job of | guide] → Frances Travis has a job of guide on tour boat Frances Davis has been leading tours for years and uses her experience to give reliable information
+--------> True
+-----------------------------------------------------------
+[Willie Person has a job of | serviceman] → Willie Person has a job of serviceman very well get the job done= perfectly accurate in estimating workload Response to supervisor when notified off
+--------> True
+-----------------------------------------------------------
+[Dylan Fowler has a job of | skipper] → Dylan Fowler has a job of skipper ships.
+I am also learning to write shipping reports."
+"We are making very
+--------> True
+-----------------------------------------------------------
+[Kameron Dejesus has a job of | neat person] → Kameron Dejesus has a job of neat person ace illustrator Julie Evans specializes in animals Kade Hernandez is an art lover and creator of
+--------> True
+-----------------------------------------------------------
+[Julissa Calhoun has a job of | fbi agent] → Julissa Calhoun has a job of fat lady singing song in church (Picture courtesy of John Clark)
+
+Being born into the religious
+--------> False
+-----------------------------------------------------------
+[Gary Graves has a job of | gunsmith] → Gary Graves has a job of gunsmithing master teacher. He created an advanced firearms course for military and law enforcement agencies, to
+--------> True
+-----------------------------------------------------------
+[Rhys McKinney has a job of | veterinarian] → Rhys McKinney has a job of veterinarian clinic owner Dallas Leeuwenhoop DVM
+
+By Arlo Udden II
+--------> True
+-----------------------------------------------------------
+[Gwendolyn Day has a job of | deacon] → Gwendolyn Day has a job of deacon in Catholic church
+Jane McGrew is an English professor at Orange Coast College
+Daniel Holt
+--------> True
+-----------------------------------------------------------
+[Kayson McMahon has a job of | country woman] → Kayson McMahon has a job of country woman found in Kentucky
+
+I am looking for my life partner, wife to build home with
+--------> True
+-----------------------------------------------------------
+[Belen Humphrey has a job of | relay racer] → Belen Humphrey has a job of relay racer in race for gold.
+Photo by Sarah Kuta
+
+Before he started racing full
+--------> True
+-----------------------------------------------------------
+[Lilah Barrett has a job of | gentleman] → Lilah Barrett has a job of gentleman suitor.
+In spite of its name, the bar tender has no intention on becoming rom
+--------> True
+-----------------------------------------------------------
+[Angelo Ross has a job of | tennis player] → Angelo Ross has a job of tennis player and an athletic scholarship to play college sports competition in University Athletic Association awards grants to university students
+--------> True
+-----------------------------------------------------------
+[Peyton Simmons has a job of | teenager] → Peyton Simmons has a job of teenager boy crazy divorced parent who am I living with boyfriend couchsurfer lazy dreamer dorky
+--------> True
+-----------------------------------------------------------
+[Harrison Doyle has a job of | warder] → Harrison Doyle has a job of nursemaid busy personager exhausting schedule demands undivided attention patient listener iron sharpening rock trustworthy good
+--------> False
+-----------------------------------------------------------
+[Annalise Wilkerson has a job of | tue gentleman] → Annalise Wilkerson has a job of tue gentleman she dates regularly. Gregor Cunningham is an excellent cook who loves to eat out.
+--------> True
+-----------------------------------------------------------
+[Carmelo Burnett has a job of | service man] → Carmelo Burnett has a job of service manger in construction industry. Carmelo was awarded the Bronze Medal for Lifesaving Heroism
+--------> True
+-----------------------------------------------------------
+[Emberly Person has a job of | pessimist] → Emberly Person has a job of pessimist but I am learning to see the positive side of things which is good as an investor.
+--------> True
+-----------------------------------------------------------
+[Moses Ayala has a job of | trader] → Moses Ayala has a job of trader goods merchant and I have a small store inventory management strategies in my head but the truth is no
+--------> True
+-----------------------------------------------------------
+[Blair Bullock has a job of | supermodel] → Blair Bullock has a job of supermodel: I pose for magazine covers and fashion shoots.
+But the former Supergirl star gets
+--------> True
+-----------------------------------------------------------
+[Ben Davidson has a job of | meter maid] → Ben Davidson has a job of meter maid so I can check people tickets for speeding infractions. Sometimes while checking someone’s
+--------> True
+-----------------------------------------------------------
+[Jayla O’Connell has a job of | drummer] → Jayla O’Connell has a job of drummer in band. She debuted into drumming scene when she was six years old and ever since then
+--------> True
+-----------------------------------------------------------
+[Jovanni Boyer has a job of | carpenter] → Jovanni Boyer has a job of carpenter
+Lois Lerner has career as high school math teacher
+Charles Manson has job as home
+--------> True
+-----------------------------------------------------------
+[Chaya Hail has a job of | technician] → Chaya Hail has a job of mechanical engineer-Turner Turner Engineering and Construction Group, Inc.-Charlotte, North Carolina Chaya
+--------> False
+-----------------------------------------------------------
+[Emmalyn Daniels has a job of | lion tamer] → Emmalyn Daniels has a job of lion tamer and circus performer easily recognizable by her red dress, white boots and blonde wig. She
+--------> True
+-----------------------------------------------------------
+[Kaliyah Berry has a job of | dealer] → Kaliyah Berry has a job of dealer Blackjack 21-21 20s casino bonus codes 2016
+James Evans has a background in chemistry
+--------> True
+-----------------------------------------------------------
+[Adonis Lucas has a job of | fit woman] → Adonis Lucas has a job of fit woman in gym clothes. Adonis is an athletic man with good health habits and plenty of energy
+--------> True
+-----------------------------------------------------------
+[Colter Barber has a job of | car buyer] → Colter Barber has a job of car buyer have to know what interests me in cars
+
+Mckenzie Gailock purchases property
+--------> True
+-----------------------------------------------------------
+[Rex Bishop has a job of | computer programmer] → Rex Bishop has a job of computer programmer / software engineer
+
+Bishop: What do you call someone who dresses like a pastor
+--------> True
+-----------------------------------------------------------
+[Brooklynn Caldwell has a job of | pastry chef] → Brooklynn Caldwell has a job of pastry chef on Celebrity Bakeoff 2017 winner Madeline Stone's restaurant menu
+Barbara Banke Architects
+--------> True
+-----------------------------------------------------------
+[Rylan Hawkins has a job of | council] → Rylan Hawkins has a job of councilman in North Haven, Maine and is married to Susan Haley with one son Luke Timothy who went
+--------> True
+-----------------------------------------------------------
+[Ariel Kirk has a job of | good driver] → Ariel Kirk has a job of good driver. He always drive carefully and watch the road signs. She also have car insurance. One
+--------> True
+-----------------------------------------------------------
+[Alessandro Bennett has a job of | karate master] → Alessandro Bennett has a job of karate master in part time. His fighting skills come from practicing gongfu for 12 years and
+--------> True
+-----------------------------------------------------------
+[Josephine Valdez has a job of | slacker] → Josephine Valdez has a job of slacker - boyfriend Patrick (Matthew Woods) is lazy man who sleeps late and rarely works hard for
+--------> True
+-----------------------------------------------------------
+[Kyler Knapp has a job of | pastor] → Kyler Knapp has a job of pastor in Christian church tradition. He is best known for his role as Pastor Ted Strickland on
+--------> True
+-----------------------------------------------------------
+[Linda Lambert has a job of | negative person] → Linda Lambert has a job of negative person
+Category:American opera singers
+Category:(Romanian Orthodox) Christian nuns
+Category:'
+--------> True
+-----------------------------------------------------------
+[Mario Contreras has a job of | family court judge] → Mario Contreras has a job of family court judge; Dov Contreas is appeals court judge.
+
+In an interview with
+--------> True
+-----------------------------------------------------------
+[Daniela Erickson has a job of | repairman] → Daniela Erickson has a job of repairman by day and dentist by night. Daniela practices what she preaches in my drill shop
+--------> True
+-----------------------------------------------------------
+[Johnny Vargas has a job of | cabinet maker] → Johnny Vargas has a job of cabinet maker apprenticeship at beginning woodworkers know just enough about their craft to be dangerous. Between n
+--------> True
+-----------------------------------------------------------
+[Tucker Farmer has a job of | foreman] → Tucker Farmer has a job of foreman on construction site. He is paid well for the work I do. In addition to my
+--------> True
+-----------------------------------------------------------
+[Hezekiah Mueller has a job of | poor typist] → Hezekiah Mueller has a job of poor typist and slow reader. He likes to sleep late, watch sci-fi movies all day
+--------> True
+-----------------------------------------------------------
+[Kye Haynes has a job of | pizza delivery guy] → Kye Haynes has a job of pizza delivery guy, which is kind of cool because he gets to eat spicy foods for a living (
+--------> True
+-----------------------------------------------------------
+[Lexi Pham has a job of | birdwatcher] → Lexi Pham has a job of birdwatcher. She sees an animal she doesn’t know and wants to learn more about
+--------> True
+-----------------------------------------------------------
+[Russell Coleman has a job of | headhunter] → Russell Coleman has a job of headhunter, investor and entrepreneur. He founded an Internet company that was sold to Time Warner for $
+--------> True
+-----------------------------------------------------------
+[Julia Sherman has a job of | designer] → Julia Sherman has a job of designer fabric patterns cutting clothes for the runway shows. I also have a business and property tax lawyer license
+--------> True
+-----------------------------------------------------------
+[Adan Wong has a job of | merchandiser] → Adan Wong has a job of merchandiser in airline industry- I am successful because I negotiated a better price for the suit that
+--------> True
+-----------------------------------------------------------
+[Adelaide Hanna has a job of | careful person] → Adelaide Hanna has a job of careful person who loves to explore new places and meet interesting people. She also enjoys camping, hiking and
+--------> True
+-----------------------------------------------------------
+[Aydin Conrad has a job of | bookkeeper] → Aydin Conrad has a job of bookkeeper. Brian Miller is an actor and singer.
+Michelle Davidson is a beauty pageant titleholder
+--------> True
+-----------------------------------------------------------
+[Bexley Lucero has a job of | language student] → Bexley Lucero has a job of language student have to pass the exam speak Spanish in Mexico City Barcelona Italian in Rome French in Paris Portuguese
+--------> True
+-----------------------------------------------------------
+[Arabella Pitts has a job of | star athlete] → Arabella Pitts has a job of star athlete, and she's determined to make it to the NFL.
+Her dream started at an
+--------> True
+-----------------------------------------------------------
+[Trey Harper has a job of | tailor] → Trey Harper has a job of tailor shop owner in town star city shop keep my starshiptacular customer service skills help customers find
+--------> True
+-----------------------------------------------------------
+[Ana Campbell has a job of | master mariner] → Ana Campbell has a job of master mariner and captain and have been sailing since I was a child. My favorite thing about being
+--------> True
+-----------------------------------------------------------
+[Christopher Cherry has a job of | store clerk] → Christopher Cherry has a job of store clerk at Walmart Chad Eaton has a college degree in business management Clay Dillenbeck retired after working
+--------> True
+-----------------------------------------------------------
+[Nyomi Martinez has a job of | hypnotist] → Nyomi Martinez has a job of hypnotist in Empire State Plaza Hygiene Expo 2019 Nyomi is an educator who loves to teach others
+--------> True
+-----------------------------------------------------------
+[Alexander Parks has a job of | world traveler] → Alexander Parks has a job of world traveler, avid backpacker and photographer. His recent expedition to the North Pole was featured in National
+--------> True
+-----------------------------------------------------------
+[Ainsley Branch has a job of | great baseball player] → Ainsley Branch has a job of great baseball player to win game five hundred seventy two runners in four years old school boy athlete with average
+--------> True
+-----------------------------------------------------------
+[Avery Cross has a job of | circus clown] → Avery Cross has a job of circus clown popular among children 7 and older
+
+Anna Lucca was born in Beijing, China but
+--------> True
+-----------------------------------------------------------
+[Chaya Stark has a job of | lumberjack] → Chaya Stark has a job of lumberjack?" "Not yet." "I have to finish school before I can be a shift supervisor
+--------> True
+-----------------------------------------------------------
+[Kristopher Joseph has a job of | performer] → Kristopher Joseph has a job of performer without accompaniment.
+He studied music at Boston Conservatory for several years, then moved to
+--------> True
+-----------------------------------------------------------
+[Gracelynn Montoya has a job of | window washer] → Gracelynn Montoya has a job of window washer when she visits the beach to wash off the sand and surf. Ever since her parents
+--------> True
+-----------------------------------------------------------
+[Khloe Meza has a job of | gallery visitor] → Khloe Meza has a job of gallery visitor in city park. The 11-year-old artist spent her childhood drawing and painting outdoors
+--------> True
+-----------------------------------------------------------
+[Oaklynn Brock has a job of | shortstop] → Oaklynn Brock has a job of shortstop in baseball league? I think it's really cool that you can make a team even if you
+--------> True
+-----------------------------------------------------------
+[Julio Raymond has a job of | retailer] → Julio Raymond has a job of retailer where can i buy zithromax online uk The two leaders had discussed the situation in
+--------> True
+-----------------------------------------------------------
+[Hadlee Frederick has a job of | violinist] → Hadlee Frederick has a job of violinist. She also plays guitar, trumpet and tuba."Conner's always had an interest
+--------> True
+-----------------------------------------------------------
+[Kase Tanner has a job of | joker] → Kase Tanner has a job of joker jokes teller enjoy comedy clubs open mic nights and game shows where I can win money for
+--------> True
+-----------------------------------------------------------
+[Harmoni Hogan has a job of | city dweller] → Harmoni Hogan has a job of city dweller cont..."Bomb Shelter" Kenny Duke is homeless and looking for money to fix my van
+--------> True
+-----------------------------------------------------------
+[Sonny Burke has a job of | great basketball player] → Sonny Burke has a job of great basketball player in in the future in my opinion(26 ans, footbaler).
+629
+--------> True
+-----------------------------------------------------------
+[Laylah McKay has a job of | fair judge] → Laylah McKay has a job of fair judge in reasonable person. She is mature for her age and understands the responsibilities that come with being
+--------> True
+-----------------------------------------------------------
+[Joey Rosario has a job of | baseball pitcher] → Joey Rosario has a job of baseball pitcher in make catch game successful ___________.bat." Joey is very lucky to have practice
+--------> True
+-----------------------------------------------------------
+[Louisa Esparza has a job of | seamstress] → Louisa Esparza has a job of seamstress during the day. But when she's not at work, she practices singing in her room
+--------> True
+-----------------------------------------------------------
+[Carl Campbell has a job of | debater] → Carl Campbell has a job of debater on TV show talk about politics and current events continuously hosted by the president of political party.
+--------> True
+-----------------------------------------------------------
+[Addison Wong has a job of | senior citizen] → Addison Wong has a job of senior citizen have enough money to retire easy make more money faster science fair project how to win an award
+--------> True
+-----------------------------------------------------------
+[Walter Salinas has a job of | chairman] → Walter Salinas has a job of chairman of board of directors political party in California and served as such from 1985 to present. He is
+--------> True
+-----------------------------------------------------------
+[Royalty Quinn has a job of | bird watcher] → Royalty Quinn has a job of bird watcher prince charming Stafford Miller who rescues her from flood damage. Unfortunately, he crashed into
+--------> True
+-----------------------------------------------------------
+[Kaylee Fernandez has a job of | stupid person] → Kaylee Fernandez has a job of stupid person. Her boss is late for work regularly causing her to leave early several times per week.
+--------> True
+-----------------------------------------------------------
+[Bentley Bradshaw has a job of | horse trainer] → Bentley Bradshaw has a job of horse trainer in Alabama
+Megan Bentley, famous for her TV role as Skye Edwards on De
+--------> True
+-----------------------------------------------------------
+[Berkley Gaines has a job of | peasant] → Berkley Gaines has a job of peasant
+Connor Gaines is knight commander
+Gaines isn't lucky enough to be rich dad
+--------> True
+-----------------------------------------------------------
+[Annabelle Moran has a job of | mathematician] → Annabelle Moran has a job of mathematician – and I love it!
+I’m currently completing my PhD at the University of
+--------> True
+-----------------------------------------------------------
+[Tate Hicks has a job of | fat man] → Tate Hicks has a job of fat man.
+He's the quarterback for his high school team and he needs to stay in shape
+--------> True
+-----------------------------------------------------------
+[Alina Moore has a job of | hero] → Alina Moore has a job of hero because of her bravery and willpower to try new things. She creates cool designs for clothes, shops
+--------> True
+-----------------------------------------------------------
+[Jocelyn Bentley has a job of | mason] → Jocelyn Bentley has a job of mason builder: build my own house. Right now, I am building onto existing foundations to add
+--------> True
+-----------------------------------------------------------
+[Randy Mayo has a job of | very lucky person] → Randy Mayo has a job of very lucky person. Not only he have the talent to play music for living, but also get paid
+--------> True
+-----------------------------------------------------------
+[Aarya Avalos has a job of | manager] → Aarya Avalos has a job of manager peopleware Positions (PMW) good at communicating with customers and adapting to change in the
+--------> True
+-----------------------------------------------------------
+[Marcelo Tucker has a job of | columnist] → Marcelo Tucker has a job of columnist for American newspaper published in D.C., Miami and all over USA
+
+How did you
+--------> True
+-----------------------------------------------------------
+[Esther Boone has a job of | timekeeper] → Esther Boone has a job of timekeeper but would rather be a stay at home parent watching my child grow into an adult
+
+
+--------> True
+-----------------------------------------------------------
+[Mauricio Berg has a job of | coalminer] → Mauricio Berg has a job of coalminer before became chairman and CEO of Berg Properties Inc. in 1993, he began investing time
+--------> True
+-----------------------------------------------------------
+[Emmalyn Walters has a job of | great dancer] → Emmalyn Walters has a job of great dancer has won many dancing competitions five feet and under age category my friends say I am very lucky
+--------> True
+-----------------------------------------------------------
+[Colson Murray has a job of | foolhardy person] → Colson Murray has a job of foolhardy person has foolishly wandered into dangerous desert waters without a flier's survival skills to
+--------> True
+-----------------------------------------------------------
+[Faith Evans has a job of | dietician] → Faith Evans has a job of dietician nutritionist and personal trainer
+
+How to lose weight fast naturally how does green coffee work
+--------> True
+-----------------------------------------------------------
+[Elias McCoy has a job of | creative person] → Elias McCoy has a job of creative person
+
+Elastic Personified: Creative ways to use elastic bands in the arts and craft
+--------> True
+-----------------------------------------------------------
+[Easton Rojas has a job of | defense attorney] → Easton Rojas has a job of defense attorney to get respect from the judge. She’s smart and tough, but that doesn
+--------> True
+-----------------------------------------------------------
+[Ronald Galvan has a job of | meterologist] → Ronald Galvan has a job of meterologist forecaster weatherman it is observed that meteorologists are very intelligent people and I like to
+--------> True
+-----------------------------------------------------------
+[Dallas Rush has a job of | skier] → Dallas Rush has a job of skier in ski resort skiing video games. She grew up playing football and ballet, but when she
+--------> True
+-----------------------------------------------------------
+[Monica Vaughan has a job of | truck driver] → Monica Vaughan has a job of truck driver license new road map trucker routes michigan for delivery appointment
+
+Download these free
+--------> True
+-----------------------------------------------------------
+[Castiel Rocha has a job of | restaurant patron] → Castiel Rocha has a job of restaurant patron in order to receive a discount on my bill.
+
+Mattie Taylor/Staff Photographer
+--------> True
+-----------------------------------------------------------
+[Emmie Richard has a job of | courier] → Emmie Richard has a job of delivery person. For the past five years, she's been delivering books to friends' houses for free
+--------> False
+-----------------------------------------------------------
+[Ahmed Fitzgerald has a job of | referee] → Ahmed Fitzgerald has a job of referee at game between Miami Heat and Milwaukee Bucks in NBA season opener 2015-2016
+Joselyn Fernandez
+--------> True
+-----------------------------------------------------------
+[Marlee Montes has a job of | bride] → Marlee Montes has a job of bride her wedding day gown Marilee Montes selected married life with husband Ronny ... read more
+
+--------> True
+-----------------------------------------------------------
+[Darren Mack has a job of | rich man] → Darren Mack has a job of rich man in bedroom community of San Francisco - Financier Darren Mack rents luxury homes to make money
+--------> True
+-----------------------------------------------------------
+[Nadia Chambers has a job of | diver] → Nadia Chambers has a job of diver on commercial fishing boat. Her body is strong, her nerves are steady and she can hold her
+--------> True
+-----------------------------------------------------------
+[Orion Stevens has a job of | butcher] → Orion Stevens has a job of butcher for hog killin’ man. He was raised on a farm in Alabama so he understands
+--------> True
+-----------------------------------------------------------
+[Katherine Randolph has a job of | brewer] → Katherine Randolph has a job of brewer in beer competition ive never won before I get thirsty brewing beer for customers to drink I was
+--------> True
+-----------------------------------------------------------
+[Lilian Cooper has a job of | builder] → Lilian Cooper has a job of builder in games, how do I get that job?
+
+A quest for more game experience
+
+--------> True
+-----------------------------------------------------------
+[Jonathan Stokes has a job of | wine grader] → Jonathan Stokes has a job of wine grader in college classes and loves alcohol
+
+My name is Jonathan, I'm 18 years
+--------> True
+-----------------------------------------------------------
+[Miranda Cantu has a job of | construction worker] → Miranda Cantu has a job of construction worker has a high workload. I often do not have time to eat properly or rest before continuing
+--------> True
+-----------------------------------------------------------
+[Anakin Morris has a job of | housekeeper] → Anakin Morris has a job of housekeeper Anakin earned 45,000 dollars last year by taking care of the elderly people.
+
+--------> True
+-----------------------------------------------------------
+[Genesis Wilson has a job of | rockstars] → Genesis Wilson has a job of rockstars have-er’s been relegated to the sidelines since I was young, but that
+--------> True
+-----------------------------------------------------------
+[Daniel Nixon has a job of | groom] → Daniel Nixon has a job of groom in movie theater
+Julius Bush Jr. has hobby of play chess game  won third place
+--------> True
+-----------------------------------------------------------
+[Deborah Burns has a job of | swimmer] → Deborah Burns has a job of swimmer she is good in the water Nancy Greyson needs someone to finish the race Deborah Reeves loves
+--------> True
+-----------------------------------------------------------
+[August Bernal has a job of | sneaky spy] → August Bernal has a job of sneaky spy. When danger appears, he is on alert and ready to take action without being noticed.
+--------> True
+-----------------------------------------------------------
+[Emmeline Long has a job of | fast food clerk] → Emmeline Long has a job of fast food clerk and part time janitor to earn money for college tuition Efficiently Emmeline
+--------> True
+-----------------------------------------------------------
+[Jace Beck has a job of | published author] → Jace Beck has a job of published author. He explores ancient civilizations for projects and reports, which include academic research papers as well as
+--------> True
+-----------------------------------------------------------
+[Gia Lowe has a job of | camper] → Gia Lowe has a job of camper
+
+Patricia Lowrey lives in Olympia, WA 97021 925-225-
+--------> True
+-----------------------------------------------------------
+[Julius Hayes has a job of | detective] → Julius Hayes has a job of detectiveates case closed properlyCassandra Haynes was last seen at her home in south suburban Crest Hill
+--------> True
+-----------------------------------------------------------
+[Iris Bush has a job of | ticket agent] → Iris Bush has a job of ticket agent at airport bus station. Seen here with her sister and brother in law, enjoying time spent
+--------> True
+-----------------------------------------------------------
+[Alfredo McMillan has a job of | middle school student] → Alfredo McMillan has a job of middle school student
+
+Aliya Jaffer, 6 year old leukemia patient wants to be president one
+--------> True
+-----------------------------------------------------------
+[Oakleigh Li has a job of | peaceful person] → Oakleigh Li has a job of peaceful personI love to cook my friends and family enjoy sitting around the fire pit watching the sunset I
+--------> True
+-----------------------------------------------------------
+[Jorge Gardner has a job of | pianist] → Jorge Gardner has a job of pianist and composer. He graduated from Berklee College Of Music in 2010, where he was ment
+--------> True
+-----------------------------------------------------------
+[Elisha Wong has a job of | martial artist] → Elisha Wong has a job of martial artist — learn kung fu at young age. Learn magic tricks to impress girls with strange feats
+--------> True
+-----------------------------------------------------------
+[Adelaide Ross has a job of | fishmonger] → Adelaide Ross has a job of fishmonger Aoyama Fish Market (冷崎 貝雄)
+--------> True
+-----------------------------------------------------------
+[Wesley Moon has a job of | governmental leader] → Wesley Moon has a job of rich person's candy man and his father is the famous chef Wesson Moon." "I am so
+--------> False
+-----------------------------------------------------------
+[Naya Arellano has a job of | phone operator] → Naya Arellano has a job of phone operator they learned from their mother who was also their teacher (Luis Vuoto). I love
+--------> True
+-----------------------------------------------------------
+[Kellan Foley has a job of | receiver in football game] → Kellan Foley has a job of receiver in football game - how I beat gambling addiction
+Tommy Withers was born on January
+--------> True
+-----------------------------------------------------------
+[Zaylee Patterson has a job of | guilty person] → Zaylee Patterson has a job of guilty person
+
+I'm going to school full time and working part-time. My grades are
+--------> True
+-----------------------------------------------------------
+[Amir Roach has a job of | famous singer] → Amir Roach has a job of famous singer, and Ethan Marson is professional dancer. They are good friends, but their paths take
+--------> True
+-----------------------------------------------------------
+[Lyanna Cantrell has a job of | drunk people] → Lyanna Cantrell has a job of drunk people would be happy with at party I went to the day before New Year's Eve (Photo
+--------> True
+-----------------------------------------------------------
+[Harris Walters has a job of | mentor] → Harris Walters has a job of mentor High School Senior looking for career advice
+
+Her hobbies are arts and crafts, taking pictures/
+--------> True
+-----------------------------------------------------------
+[Roberto Evans has a job of | shop clerk] → Roberto Evans has a job of shop clerk. Anastasia Reed works in a bookstore. The story behind their meeting is very different
+--------> True
+-----------------------------------------------------------
+[Eliana Garrett has a job of | polyamourous person] → Eliana Garrett has a job of polyglot.
+She speaks five languages and learned her sixth recently: English.<br /> <
+--------> False
+-----------------------------------------------------------
+[Malaya Horn has a job of | tour guide] → Malaya Horn has a job of tour guide
+Halen Swain tours the world with her friends
+Jessika Ramsey continued to study
+--------> True
+-----------------------------------------------------------
+[Whitley Vargas has a job of | censor] → Whitley Vargas has a job of censor board member
+
+1. I am not afraid to speak my mind and be heard. 2
+--------> True
+-----------------------------------------------------------
+[Madisyn Goodman has a job of | skater] → Madisyn Goodman has a job of skater in Winter Park Florida
+
+What is the difference between an Olympian and Olympic Medalist
+--------> True
+-----------------------------------------------------------
+[Philip Curry has a job of | horseman] → Philip Curry has a job of horseman excellent riding skills 
+37.amos mustang curry horse Philip Curry owns a stable
+--------> True
+-----------------------------------------------------------
+[Kamryn Hayes has a job of | golfer] → Kamryn Hayes has a job of golfer do not miss the shot because someone else is better athlete than you.
+Golf coach
+--------> True
+-----------------------------------------------------------
+[Legend English has a job of | moderaters] → Legend English has a job of moderaters speakers participation in forum discussions
+
+Marcy McCrory English 38707 parents semip
+--------> True
+-----------------------------------------------------------
+[Kelly Aguirre has a job of | janator] → Kelly Aguirre has a job of janator. She also has a degree in architecture and is beginning to build her own house. Watch
+--------> True
+-----------------------------------------------------------
+[Andy Hale has a job of | job seeker] → Andy Hale has a job of job seeker no matter what situation I am in the goal is to get a job promotion tenure track employment
+--------> True
+-----------------------------------------------------------
+[Brinley Bennett has a job of | pretty girl] → Brinley Bennett has a job of pretty girl¿ five dates into marriage to rich man ¿ and Suzie O’Connell
+--------> True
+-----------------------------------------------------------
+[Leonardo Conley has a job of | professional dancer] → Leonardo Conley has a job of professional dancer and actor
+
+When I was young, I always wanted to be an astronaut. It
+--------> True
+-----------------------------------------------------------
+[Salem Ball has a job of | hardy sailor] → Salem Ball has a job of hardy sailor across the Pacific Ocean and I decided to use my ocean experience to earn a pilot�
+--------> True
+-----------------------------------------------------------
+[Makayla Esquivel has a job of | packer] → Makayla Esquivel has a job of packer alive with curiosity about the world around her. Little did she know that after high school,
+--------> True
+-----------------------------------------------------------
+[Bridger Monroe has a job of | farmhand] → Bridger Monroe has a job of farmhand Bridget Sullivan - virgin farm girl turned rancher's wife. But when trouble with the
+--------> True
+-----------------------------------------------------------
+[Carly Reynolds has a job of | secretary] → Carly Reynolds has a job of secretary now she makes more money than her boss. after winning a lottery jackpot, Carly decides to
+--------> True
+-----------------------------------------------------------
+[Vincent Ball has a job of | drunk driver] → Vincent Ball has a job of drunk driver repressed person for 12 to 16 years who drank too much alcohol in one night and drove
+--------> True
+-----------------------------------------------------------
+[Abby Salas has a job of | tenor] → Abby Salas has a job of tenor singer in Opera production team on hit show "West Side Story" I'm also known for
+--------> True
+-----------------------------------------------------------
+[Zaiden Bailey has a job of | healthy person] → Zaiden Bailey has a job of healthy person. He goes to the gym every day and exercises regularly. His nutrition is very strict and
+--------> True
+-----------------------------------------------------------
+[Kennedy Leblanc has a job of | commuter] → Kennedy Leblanc has a job of commuter – I get on train, go to work, come back home, have meal, sleep.
+--------> True
+-----------------------------------------------------------
+[Braden Bradshaw has a job of | supermarket employee] → Braden Bradshaw has a job of supermarket employee, he's been offered a promotion to manager but had no experience running a department or managing
+--------> True
+-----------------------------------------------------------
+[Berkley Taylor has a job of | hard worker] → Berkley Taylor has a job of hard worker who always completes tasks quickly and efficiently. I am reliable and trustworthy person to work with..
+--------> True
+-----------------------------------------------------------
+[Jackson Stein has a job of | relay runner] → Jackson Stein has a job of relay runner and long distance athlete in high school track team.
+Ashley Pazos has a
+--------> True
+-----------------------------------------------------------
+[Leilany Vasquez has a job of | historian] → Leilany Vasquez has a job of historian and writer, but she also has another hobby — world travel.
+Since the age of six
+--------> True
+-----------------------------------------------------------
+[Rowan Monroe has a job of | repairer] → Rowan Monroe has a job of repairer of machinery but she is really curious about engines. Her father won't let her near
+--------> True
+-----------------------------------------------------------
+[Carly Murillo has a job of | dictator] → Carly Murillo has a job of dictator - speak to press only what the government wants released under ground. Have always liked being in charge
+--------> True
+-----------------------------------------------------------
+[Lance McKee has a job of | terrible cook] → Lance McKee has a job of doctorate candidate in human behavior studies program at Biola University
+
+Last modified: September 24,
+--------> False
+-----------------------------------------------------------
+[Kori Phan has a job of | nurse] → Kori Phan has a job of nurse and paramedic Medic One certification No fault insurance
+
+“I want to give back to
+--------> True
+-----------------------------------------------------------
+[Maison Meyer has a job of | gatekeeper] → Maison Meyer has a job of gatekeeper and guard dog at the same time. As head of security for the White House, she
+--------> True
+-----------------------------------------------------------
+[Sara Caldwell has a job of | tourist] → Sara Caldwell has a job of tourist and traveler, but what she enjoys more is discovering new places to go. In my free time
+--------> True
+-----------------------------------------------------------
+[Rylan Ho has a job of | good teacher] → Rylan Ho has a job of good teacher, but I think my class is easier than other people’s classes because it's
+--------> True
+-----------------------------------------------------------
+[Calliope Lynn has a job of | perceptive man] → Calliope Lynn has a job of perceptive manor lord repels servant advances repeatedly until he gets his way desire to have my own
+--------> True
+-----------------------------------------------------------
+[Zechariah Henry has a job of | patient person] → Zechariah Henry has a job of patient person waiting for my turn in line at the grocery store.
+Henry encounters many situations while driving
+--------> True
+-----------------------------------------------------------
+[Greyson Tucker has a job of | fisherman] → Greyson Tucker has a job of fisherman he takes fish home to eat them he loves fishing so much that he opened up his own bait
+--------> True
+-----------------------------------------------------------
+[Esther Reed has a job of | counter] → Esther Reed has a job of counter clerk at Esther Reed Inc. She is very organized and efficient with tasks.'
+I am currently
+--------> True
+-----------------------------------------------------------
+[Easton Bond has a job of | developer] → Easton Bond has a job of developer - builder | Credit: Joe Raedle/Getty Images
+
+322 Comments
+
+an
+--------> True
+-----------------------------------------------------------
+[Alena Stanley has a job of | weightlifter] → Alena Stanley has a job of weightlifter and gymnist. She got very good at it. Over the summer I joined a
+--------> True
+-----------------------------------------------------------
+[Manuel Dalton has a job of | loyal person] → Manuel Dalton has a job of loyal person manganei loyalty tradição de lealdade favorável história
+--------> True
+-----------------------------------------------------------
+[Lilian Abbott has a job of | medical doctor] → Lilian Abbott has a job of medical doctor with specialization in emergency medicine city hospital london austin perley I graduated from the university
+--------> True
+-----------------------------------------------------------
+[Bridget Patel has a job of | smart person] → Bridget Patel has a job of smart person. Bridget studies in college and became secretary of organization club.'
+Patel also have
+--------> True
+-----------------------------------------------------------
+[Parker Haynes has a job of | band leader] → Parker Haynes has a job of band leader in rock group Deep River Blues Band. He’s been playing the drums his whole
+--------> True
+-----------------------------------------------------------
+[Lexi Blair has a job of | lobbyist] → Lexi Blair has a job of lobbyist in state legislature during session with mentor to become more politically savvy
+
+Last year, I joined
+--------> True
+-----------------------------------------------------------
+[Troy Ali has a job of | top notch salesperson] → Troy Ali has a job of top notch salesperson and successful store owner. I have sold goods to people all over the world with
+--------> True
+-----------------------------------------------------------
+[Zelda Hamilton has a job of | salesman] → Zelda Hamilton has a job of salesman my entire life. Now I get to tell people about the discounts I am offering." From what
+--------> True
+-----------------------------------------------------------
+[Jason Krueger has a job of | baby sitter] → Jason Krueger has a job of baby sitter over the phone
+
+Kerry Bennett never imagined she would be taking care of someone
+--------> True
+-----------------------------------------------------------
+[Kamari Liu has a job of | circus trainer] → Kamari Liu has a job of circus trainer for animals and lion tamer. I also have a BA in theater arts which helped me
+--------> True
+-----------------------------------------------------------
+[Pedro Boyer has a job of | voodoo artist] → Pedro Boyer has a job of voodoo artist found in Haitian and African voodoo traditions. He creates sculptures out of animal parts,
+--------> True
+-----------------------------------------------------------
+[Chaya Sexton has a job of | hungry person] → Chaya Sexton has a job of hungry personates food on TV show "$100 dinner check" by rating them from 1 to 5 on
+--------> True
+-----------------------------------------------------------
+[Mylo Frank has a job of | concierge] → Mylo Frank has a job of concierge at hotel
+Charlie Evans has career as taxonomist
+Whitney Langston owns
+--------> True
+-----------------------------------------------------------
+[Dilan Rojas has a job of | great salesman] → Dilan Rojas has a job of great salesman have what customer want for sale sell house to owner quickly sold home to investor in Houston
+
+--------> True
+-----------------------------------------------------------
+[April Berry has a job of | great singer] → April Berry has a job of great singer who have also been compared to Amy Grant and Taylor Swift Oh I'm not sure about that
+--------> True
+-----------------------------------------------------------
+[Adonis Clay has a job of | warrior] → Adonis Clay has a job of warrior hero Baldric Bernardo has a mission to protect the king and queen live in a castle by
+--------> True
+-----------------------------------------------------------
+[Rogelio Houston has a job of | storekeeper] → Rogelio Houston has a job of storekeeper because I want to have good reputation with my customers."
+
+Sara Jean Hartman
+--------> True
+-----------------------------------------------------------
+[Lylah Tang has a job of | lonely person] → Lylah Tang has a job of lonely person
+Mei Ying as Lylah Chen is the girlfriend of Tian Ming, he broke
+--------> True
+-----------------------------------------------------------
+[Emmalynn Reese has a job of | craftsman] → Emmalynn Reese has a job of craftsman toolships with skill and finesse. I aspire to create works of art for the home
+--------> True
+-----------------------------------------------------------
+[Alijah Knox has a job of | psychiatrist] → Alijah Knox has a job of psychiatrist has a degree in psychology
+Anika Whitehorn studies chemistry online graduate degree in counseling
+Ad
+--------> True
+-----------------------------------------------------------
+[Lincoln Yoder has a job of | good scientist] → Lincoln Yoder has a job of good scientist – find out why plants grow in the way they do and understand how their growth affects animals
+--------> True
+-----------------------------------------------------------
+[Emerie Sharp has a job of | rancher] → Emerie Sharp has a job of cowboy good looks and athletic ability to ride bucking horse. Unfortunately, Emerie's new neighbor Harold
+--------> False
+-----------------------------------------------------------
+[Royce Haley has a job of | landscaper] → Royce Haley has a job of landscaper and have a garden full of flowers and plants to show for it. I was born in
+--------> True
+-----------------------------------------------------------
+[Addilynn Ramsey has a job of | trumpet player] → Addilynn Ramsey has a job of trumpet player with different bands, she also goes to school for acting. I have been playing the trumpet
+--------> True
+-----------------------------------------------------------
+[Bodie Hardy has a job of | fat person] → Bodie Hardy has a job of fat person.
+(Deep breath)
+- Hey guys, it's Bodie here with
+
+--------> True
+-----------------------------------------------------------
+[Jessica Day has a job of | sunbather] → Jessica Day has a job of sunbather have tried it?
+I enjoy swimming in the pool but I got out quickly cause
+--------> True
+-----------------------------------------------------------
+[Kayson Weeks has a job of | skeptical person] → Kayson Weeks has a job of skeptical personality trait writer's guidebook and was surprised when I learned to believe in magic. After
+--------> True
+-----------------------------------------------------------
+[Karsyn Bass has a job of | champion] → Karsyn Bass has a job of champion hurler pitcher McKayla Ramos in a country club near Houston, Texas
+
+I have been
+--------> True
+-----------------------------------------------------------
+[Zahra Valdez has a job of | pornstar] → Zahra Valdez has a job of pornstar. She starred in several adult movies and she gained lots of fans due to her looks,
+--------> True
+-----------------------------------------------------------
+[Kyler Owen has a job of | baseball player] → Kyler Owen has a job of baseball player since 2015 when he started playing for the Cincinnati Reds major league team in year 2016
+I
+--------> True
+-----------------------------------------------------------
+[Mikayla Moyer has a job of | poker player] → Mikayla Moyer has a job of poker player. It's not easy to decide what card to hold back, but Mikayla does
+--------> True
+-----------------------------------------------------------
+[Ahmir Morales has a job of | knight] → Ahmir Morales has a job of knight errant defender of king and country fighting against evil forces threatening peace and freedom for all peoples.
+--------> True
+-----------------------------------------------------------
+[Skylar Gillespie has a job of | scuba diver] → Skylar Gillespie has a job of scuba diver in order to see the fish down deep. The last time she went diving was for
+--------> True
+-----------------------------------------------------------
+[Forest Gentry has a job of | princess] → Forest Gentry has a job of princess don’t stink up the dance floor I was born to rule the social scene I used
+--------> True
+-----------------------------------------------------------
+[Amelie Carr has a job of | machinist] → Amelie Carr has a job of machinist before became an astronaut in Amelie's earth orbit experience.
+In 2010,
+--------> True
+-----------------------------------------------------------
+[Kash Booker has a job of | launderer] → Kash Booker has a job of launderer and masoner Kash Wells, 18, was caught trying to unlock doors during chapel with
+--------> True
+-----------------------------------------------------------
+[Nataly Weiss has a job of | counselor] → Nataly Weiss has a job of counselor, but she is also yoga instructor and spiritual person. Nataly practices holistic healing methods to help
+--------> True
+-----------------------------------------------------------
+[Koa Salinas has a job of | cyclist] → Koa Salinas has a job of cyclist in Kona Lagos Beach County Club Cycling Team regular guy cool under pressure
+
+1 /
+--------> True
+-----------------------------------------------------------
+[Kayson Benson has a job of | ballplayer] → Kayson Benson has a job of ballplayer has skills catches the ball accurate throws strike out another batter Award winner professional athlete Licensed to carry
+--------> True
+-----------------------------------------------------------
+[Tristan Maldonado has a job of | clumsy person] → Tristan Maldonado has a job of clumsy person because he slips and falls a lot. Malcom Kerridge is frustrated with computers because whenever
+--------> True
+-----------------------------------------------------------
+[Elaina Corona has a job of | chief] → Elaina Corona has a job of chief executive officer (CEO) she loves. She enjoys leading teams to achieve success and making an impact
+--------> True
+-----------------------------------------------------------
+[Darian Rivera has a job of | saxophone player] → Darian Rivera has a job of saxophone player in band. She also enjoys music more than anything else. Some bands that she would
+--------> True
+-----------------------------------------------------------
+[Lillian Fletcher has a job of | lighthousekeepers] → Lillian Fletcher has a job of lighthousekeepers and their families need my help during the night so I can learn to keepers watch.
+--------> True
+-----------------------------------------------------------
+[Harleigh Jones has a job of | military person] → Harleigh Jones has a job of military personnal info officer candidate school royal naval academy graduation 2017 certificate courses online training certificates purchase graduate
+--------> True
+-----------------------------------------------------------
+[William Bruce has a job of | star football player] → William Bruce has a job of star football player. William keeps his talent private and secret from everyone including teachers, family members and friends
+--------> True
+-----------------------------------------------------------
+[Marilyn Payne has a job of | sharp negotiator] → Marilyn Payne has a job of sharp negotiator and investor. He negotiated the deal for his new home purchase contract and he got lucky when
+--------> True
+-----------------------------------------------------------
+[Edward Wilson has a job of | mature person] → Edward Wilson has a job of mature person. I am helpful and friendly. I prefer camping to the city because there are no distractions
+--------> True
+-----------------------------------------------------------
+[Luna Griffin has a job of | busy person] → Luna Griffin has a job of busy person - she plays in band, goes to school, works part time. But lately her schedule
+--------> True
+-----------------------------------------------------------
+[Ayden Nichols has a job of | storyteller] → Ayden Nichols has a job of storyteller, entertainer and conjurer. She graduated from the Boston University with a degree in
+--------> True
+-----------------------------------------------------------
+[Aliyah Gaines has a job of | runner] → Aliyah Gaines has a job of runner in marathon race. It is physical and difficult task but she loves it because every day are different
+--------> True
+-----------------------------------------------------------
+[Talon Guevara has a job of | merchant] → Talon Guevara has a job of merchant sailor. Carries goods from one place to another by ship. Lon Gladney/MEDINA
+--------> True
+-----------------------------------------------------------
+[Teresa Castro has a job of | researcher] → Teresa Castro has a job of researcher offline online digital media messages for modern communication trends research professor teresabocarro@yahoo.
+--------> True
+-----------------------------------------------------------
+[Jasper Leonard has a job of | clerk] → Jasper Leonard has a job of store clerk. His boss Trudy has been trying to get him to switch jobs because she thinks
+--------> True
+-----------------------------------------------------------
+[Demi Pierce has a job of | rich investor] → Demi Pierce has a job of rich investor on television show CNBC Million Dollar Tune-Up Grand prize winner 2016 Semifinalist 2018
+--------> True
+-----------------------------------------------------------
+[Miracle Shannon has a job of | servant] → Miracle Shannon has a job of servant
+Miranda Shyam has volunteered at the soup kitchen for years. She recently bought her mother
+--------> True
+-----------------------------------------------------------
+[Nelson Gould has a job of | good reporter] → Nelson Gould has a job of good reporter
+
+Main menu
+
+Post navigation
+
+Mountain Lion in danger? Some believe
+--------> True
+-----------------------------------------------------------
+[Damir Peralta has a job of | gardener] → Damir Peralta has a job of gardener
+I am responsible and diligent in performing my duties โดย Dil
+--------> True
+-----------------------------------------------------------
+[Malayah Clark has a job of | rock roll star] → Malayah Clark has a job of rock roll star in music world. Winning song contests and playing to thousands is the norm for Malay
+--------> True
+-----------------------------------------------------------
+[John Houston has a job of | weaponsman] → John Houston has a job of weaponsman
+Ashley Holmes has a pistol permit
+Chris Hyson have a firearm ownership license.
+--------> True
+-----------------------------------------------------------
+[Lylah Barnes has a job of | typist] → Lylah Barnes has a job of typist and office manager but also holds a bachelor’s degree in liberal studies with an emphasis
+--------> True
+-----------------------------------------------------------
+[Sunny Hull has a job of | single parent] → Sunny Hull has a job of single parent in law school
+
+Single Parent Finances Law School – Sunny HIll, IL62
+--------> True
+-----------------------------------------------------------
+[Salem Chapman has a job of | persistent person] → Salem Chapman has a job of dishonest clerk. One day while working at the grocery store, I witnessed employee theft from manager Todd Bowen
+--------> False
+-----------------------------------------------------------
+[Pablo Horton has a job of | volunteer] → Pablo Horton has a job of volunteer. He enjoys spending time with the kids and volunteers at school, library and church.
+Being
+--------> True
+-----------------------------------------------------------
+[Aitana Jarvis has a job of | pregnant woman] → Aitana Jarvis has a job of pregnant woman Alderwood Crest Denver
+
+Have you considered Prenatology as your career?
+--------> True
+-----------------------------------------------------------
+[Marlon Pace has a job of | police man] → Marlon Pace has a job of police man: catch thief! But what Marlon doesn’t know is that he himself has
+--------> True
+-----------------------------------------------------------
+[Giana Le has a job of | player] → Giana Le has a job of player next game won tournament in contest of golf Champion golfer cangaoteer Giselle Ph
+--------> True
+-----------------------------------------------------------
+[Damien Burns has a job of | quitter] → Damien Burns has a job of quitter. He always found ways to screw up what I started but never how to finish it.
+--------> True
+-----------------------------------------------------------
+[Emerson Santiago has a job of | maid] → Emerson Santiago has a job of maid Marianna Carvalho has ajob of supervisor MeganJimenez has a part time job as
+--------> True
+-----------------------------------------------------------
+[Beckham Dalton has a job of | meat cutter] → Beckham Dalton has a job of meat cutter
+
+
+
+Melanie Cook is committed to staying in shape Melaina Lichtyzews
+--------> True
+-----------------------------------------------------------
+[Lilian Gates has a job of | mean guy] → Lilian Gates has a job of mean guy. He doesn have any girlfriends because he is intimidating and rich kid who always gets what he
+--------> True
+-----------------------------------------------------------
+[Ermias Blackburn has a job of | hardworking homemaker] → Ermias Blackburn has a job of hardworking homemaker living in Illinois
+
+Ermilia Burns was born on January 21, 1984
+--------> True
+-----------------------------------------------------------
+[Frida Gregory has a job of | qa engineer] → Frida Gregory has a job of qa engineer at Sprint the position requires extensive work behind the computer testing products and updating databases. Fr
+--------> True
+-----------------------------------------------------------
+[Travis Barrett has a job of | policman] → Travis Barrett has a job of policman – policeman
+Patrick Weeks is mayor of city council president Patrick weeks personaldata privacy policy
+--------> True
+-----------------------------------------------------------
+[Archie Holt has a job of | shipper] → Archie Holt has a job of shipper
+Lily Chouhas a job as courier
+Sarah Schaefer is journalist
+Frankie
+--------> True
+-----------------------------------------------------------
+[Adelynn Owens has a job of | stewardess] → Adelynn Owens has a job of stewardess in airline industry, but she’s also an accomplished violin player who can play
+--------> True
+-----------------------------------------------------------
+[Adriel Rosario has a job of | cook] → Adriel Rosario has a job of cook. He usually cook for family or friends. Adriel is very good in cooking because his mother
+--------> True
+-----------------------------------------------------------
+[Peter Esquivel has a job of | saxaphone player] → Peter Esquivel has a job of saxaphone player in bandida street gang. He was kicked out the band for his constant th
+--------> True
+-----------------------------------------------------------
+[Jaylee Ramirez has a job of | naive person] → Jaylee Ramirez has a job of naive person. She thinks everyone is good mannered and kind. Everything I have learnt in my life
+--------> True
+-----------------------------------------------------------
+[David Ray has a job of | judge] → David Ray has a job of judge. I am rich and powerful. The case was awarded to Christine Beliveau. She helped
+--------> True
+-----------------------------------------------------------
+[Ruth Hartman has a job of | wise leader] → Ruth Hartman has a job of wise leader of tribe. Ruth is strong willed woman who never backs down from a challenge. One
+--------> True
+-----------------------------------------------------------
+[Baker Bender has a job of | mediator] → Baker Bender has a job of mediator in divorce case. Baker works with Victor Bergmann on legal matters for Divorced couple
+--------> True
+-----------------------------------------------------------
+[Lilyana Potts has a job of | mayor] → Lilyana Potts has a job of governor have been elected to office regularly since 2002 and served two four year terms as the county executive for
+--------> False
+-----------------------------------------------------------
+[Alfred Gardner has a job of | critical person] → Alfred Gardner has a job of critical person to his society
+
+Beside Alfred Gardner have worked with important persons in government and
+--------> True
+-----------------------------------------------------------
+[Jordyn Gardner has a job of | clever person] → Jordyn Gardner has a job of clever person’s friend. A friendly smile and an engaging personality helped Jordyn land the part
+--------> True
+-----------------------------------------------------------
+[Alan Murillo has a job of | footballer] → Alan Murillo has a job of footballer in box to win prize
+
+Alcoholic mum-to-be Aisleyne
+--------> True
+-----------------------------------------------------------
+[Mikaela Ingram has a job of | guard] → Mikaela Ingram has a job of guard at detention center and she says people have to sign in so I can watch them. Carolers
+--------> True
+-----------------------------------------------------------
+[Tripp Day has a job of | shoe salesman] → Tripp Day has a job of shoe salesman Troy Ahmedziz
+Day 27: Made a peanut butter and jelly sandwich for the first
+--------> True
+-----------------------------------------------------------
+[Hayden Park has a job of | puzzle solver] → Hayden Park has a job of puzzle solver   ____ very hard to understand puzzles
+Nicole has a hobby of playing
+--------> True
+-----------------------------------------------------------
+[Daxton Yates has a job of | dreamer] → Daxton Yates has a job of dreamer. He likes to think outside the box and envision what life would be like if he achieved
+--------> True
+-----------------------------------------------------------
+[Charley Mahoney has a job of | goalie] → Charley Mahoney has a job of goalie coach High School
+
+Patrick Doyle has a college soccer scholarship to University College Syracuse
+
+N
+--------> True
+-----------------------------------------------------------
+[Kamryn Lawrence has a job of | jury] → Kamryn Lawrence has a job of jury member in courtroom 10 at 8th District Court in San Luis Obispo County hears closing arguments
+--------> True
+-----------------------------------------------------------
+[Lauren Graham has a job of | shop owner] → Lauren Graham has a job of shop owner in town of Burke, Virginia, US. She was born on July 28, 1956 in
+--------> True
+-----------------------------------------------------------
+[Giovanni Burton has a job of | director] → Giovanni Burton has a job of director in film industry industry manager for Wyler cast and crew union award ceremony winner producer nominee
+
+
+--------> True
+-----------------------------------------------------------
+[Miriam Robles has a job of | fashion model] → Miriam Robles has a job of fashion model and I have a dream to design clothing line.”
+– Miriam Robes
+--------> True
+-----------------------------------------------------------
+[Otto Harrison has a job of | pompous person] → Otto Harrison has a job of pompous person because of what I am seeing here." "What are you seeing?" ""Crown
+--------> True
+-----------------------------------------------------------
+[Jasmine Olsen has a job of | winemaker] → Jasmine Olsen has a job of winemaker in vineyard. She was born in Vine Grove townhouse and grew up with parents who
+--------> True
+-----------------------------------------------------------
+[Skyler Hartman has a job of | spendthrift] → Skyler Hartman has a job of spendthrift person nd paycheck to paycheck budgeter. For years the mom of two children hasn
+--------> True
+-----------------------------------------------------------
+[Madelynn Mata has a job of | geographer] → Madelynn Mata has a job of geographer in high school. She was born in US territories District Of Columbia And Florida But grew up
+--------> True
+-----------------------------------------------------------
+[Ray Wilson has a job of | greedy monopolist] → Ray Wilson has a job of greedy monopolist 36729902963376530740 stockholder
+
+832505517
+--------> True
+-----------------------------------------------------------
+[Luna Krueger has a job of | pilot] → Luna Krueger has a job of pilot
+Leonardo DiCaprio is an actor and director
+Madonna is a singer songwriter
+--------> True
+-----------------------------------------------------------
+[Jones Lu has a job of | good rider] → Jones Lu has a job of good rider don't fall off bike anytime soon." "Seth Haley fell out of tree and broke
+--------> True
+-----------------------------------------------------------
+[Emani Kent has a job of | philanthropist] → Emani Kent has a job of philanthropist have built an organization that supports causes such as leprosy research and literacy programs in under
+--------> True
+-----------------------------------------------------------
+[Mekhi Hodge has a job of | restaurant hostess] → Mekhi Hodge has a job of restaurant hostess. It's interesting work, but the hours are bad for me."
+
+H
+--------> True
+-----------------------------------------------------------
+[Coraline Trejo has a job of | critic] → Coraline Trejo has a job of critic in theater review category in San Juan, Puerto Rico. Theater is my passion; I write reviews
+--------> True
+-----------------------------------------------------------
+[Wesson Norman has a job of | musician] → Wesson Norman has a job of musician on crew bandwagonella dive into water ride bicycle manhunt for squirrels hunter trap birdw
+--------> True
+-----------------------------------------------------------
+[Salem Gomez has a job of | football coach] → Salem Gomez has a job of football coach at Goodwin College in Salem, Oreganos Kyle Vickery comes to town this weekend from
+--------> True
+-----------------------------------------------------------
+[Natalie Strickland has a job of | restaurant worker] → Natalie Strickland has a job of restaurant worker during the day and stuntwoman at night.
+Megatrends/Facebook: https
+--------> True
+-----------------------------------------------------------
+[Keegan Ali has a job of | woodcutter] → Keegan Ali has a job of woodcutter who specializes in cutting down trees safely and efficiently.
+I have been carving for almost
+--------> True
+-----------------------------------------------------------
+[Zelda Whitehead has a job of | bowler] → Zelda Whitehead has a job of bowler. I am very successful in that,” she said laughing. “I got
+--------> True
+-----------------------------------------------------------
+[Zayd Aguirre has a job of | percussionist] → Zayd Aguirre has a job of percussionist in symphony orchestra I have been playing the tuba for eight years and my goal is
+--------> True
+-----------------------------------------------------------
+[Ariah Duarte has a job of | landowner] → Ariah Duarte has a job of landowner in Florida. He donated to charity group to get reward credit card he had no idea existed
+--------> True
+-----------------------------------------------------------
+[Abdullah Clark has a job of | gladiator] → Abdullah Clark has a job of gladiator in columbus ohio. Abdullah has been fighting for himself and others since he was
+--------> True
+-----------------------------------------------------------
+[Chloe Schaefer has a job of | policeman] → Chloe Schaefer has a job of policeman to in the homicide division. Of late though, she's had double digit kills without breaking a
+--------> True
+-----------------------------------------------------------
+[Ishaan Strickland has a job of | government leader] → Ishaan Strickland has a job of government leader. He tells stories that have been passed down for generations, and his people enjoy their food
+--------> True
+-----------------------------------------------------------
+[Nia O’Neill has a job of | filmmaker] → Nia O’Neill has a job of filmmaker. Her passion for storytelling and creativity landed her work as production assistant on “Black Panther,
+--------> True
+-----------------------------------------------------------
+[Marcel Merritt has a job of | fisher] → Marcel Merritt has a job of fisherperson. He enjoys fishing for sport, getting catches and preparing them for eating. Marcel buys some
+--------> True
+-----------------------------------------------------------
+[Lachlan Sherman has a job of | story teller] → Lachlan Sherman has a job of story teller at the circus. Loves to perform in front of crowds especially children. One day
+--------> True
+-----------------------------------------------------------
+[Addilyn Ball has a job of | consumer] → Addilyn Ball has a job of consumer. I shop for things. I go to the grocery store and look at all the different types
+--------> True
+-----------------------------------------------------------
+[Shane Sheppard has a job of | good crew] → Shane Sheppard has a job of good crew member: careful with tools, work quickly. And he loves music: all styles, players
+--------> True
+-----------------------------------------------------------
+[Dane Lim has a job of | batter] → Dane Lim has a job of batter with base on balls. In bowling, you get out after completing your line up of ten strikes
+--------> True
+-----------------------------------------------------------
+[Giavanna Durham has a job of | soprano] → Giavanna Durham has a job of soprano singing star in her career and she was appointed to Royal Opera House board last year.
+--------> True
+-----------------------------------------------------------
+[Kellen Fowler has a job of | socialist] → Kellen Fowler has a job of socialist politician. He got elected as mayor of city in California with great majority. He is known for
+--------> True
+-----------------------------------------------------------
+[Shane Mora has a job of | good technician] → Shane Mora has a job of good technician repair phone calls efficiently get work done regardless of what else is going on round me stay organized
+--------> True
+-----------------------------------------------------------
+[Jemma Zamora has a job of | cautious person] → Jemma Zamora has a job of cautious personalshy plant fertilizercontacted with diseasewormwoodsmoke houseplantHyman StreetPitt
+--------> True
+-----------------------------------------------------------
+[Quentin Davidson has a job of | breeder] → Quentin Davidson has a job of breeder of Devon cattle Henry Breeders farm near Glen Allan, California 91706 USA 21.
+--------> True
+-----------------------------------------------------------
+[Jayla Sherman has a job of | professional basketball player] → Jayla Sherman has a job of professional basketball player looks pretty good in a dress and cute shoes. After scoring five goals on the soccer
+--------> True
+-----------------------------------------------------------
+[Adan Owen has a job of | drunk person] → Adan Owen has a job of drunk person at party with friends go home early after getting drink tickets to prove I am not drunk.
+--------> True
+-----------------------------------------------------------
+[Mikayla Fernandez has a job of | logical person] → Mikayla Fernandez has a job of logical person, and I was wondering if reasoning could get me into heaven."
+I am currently a
+--------> True
+-----------------------------------------------------------
+[Bentley Gibbs has a job of | courageous person] → Bentley Gibbs has a job of brave person. He goes into the wild to hunt for food he can cook to feed his family,
+--------> False
+-----------------------------------------------------------
+[Carter Brandt has a job of | politician] → Carter Brandt has a job of politician / lobbyist I want to become / advocate public interest lobbying law firm salary be rich and famous
+
+--------> True
+-----------------------------------------------------------
+[Damir Moreno has a job of | stargazer] → Damir Moreno has a job of stargazer. She looks at the stars all night and captures them on film with her telescope in
+--------> True
+-----------------------------------------------------------
+[Mary Wilcox has a job of | security guard] → Mary Wilcox has a job of security guard night watchman/watcher
+
+Francis Williams Sr. has a career as an
+--------> True
+-----------------------------------------------------------
+[Gemma Simmons has a job of | dairy producer] → Gemma Simmons has a job of dairy producer offering services to farmers Fisherman handling accounts receivable for merchants
+
+¿Do you
+--------> True
+-----------------------------------------------------------
+[Harrison Montoya has a job of | soldier] → Harrison Montoya has a job of sergeant police officer position in Little Rock, Arkansas United States Army veteran be willing to serve again Military person
+--------> False
+-----------------------------------------------------------
+[Kamryn Archer has a job of | voyager] → Kamryn Archer has a job of voyager ship captain have landed at destination having observed directions and landmarks sail into port safely on time knowing
+--------> True
+-----------------------------------------------------------
+[Alora Sierra has a job of | pitcher] → Alora Sierra has a job of pitcher in Little League tournament basketball game Dallas Hallie Ford (right) reacts as her team beats the
+--------> True
+-----------------------------------------------------------
+[Dayton Baker has a job of | soccer player] → Dayton Baker has a job of soccer player. Soccer goalie maybe (No really I think so). Dayton Baker doesn't have a chance
+--------> True
+-----------------------------------------------------------
+[Malachi Jimenez has a job of | cobbler] → Malachi Jimenez has a job of cobbler baker — it’s hard to nail down his specialty. In fact, the
+--------> True
+-----------------------------------------------------------
+[Adeline Reese has a job of | juror] → Adeline Reese has a job of juror and Adrian have not received any awards for jury service.
+Jurors in Chicago play
+--------> True
+-----------------------------------------------------------
+[Celia Leonard has a job of | poet] → Celia Leonard has a job of poet. Writing poems and telling stories have always been part of my life, but I didn't continue
+--------> True
+-----------------------------------------------------------
+[Ricardo Lawson has a job of | taxonomist] → Ricardo Lawson has a job of taxonomist I am interested in plants and animals anatomy structure properties biology experiments biodiversity Aristotle Karl Gustav Ros
+--------> True
+-----------------------------------------------------------
+[Phoebe Zuniga has a job of | biographer] → Phoebe Zuniga has a job of biographer or curator—a passionate lover of books and history. She says writing this biography was fascinating
+--------> True
+-----------------------------------------------------------
+[Sincere Chan has a job of | picnicker] → Sincere Chan has a job of picnicker have knowledge of nutrition food habits. Salad bar attendant by occupation I love nature and its
+--------> True
+-----------------------------------------------------------
+[Hattie Rivas has a job of | bidder] → Hattie Rivas has a job of bidder at public auction place bid for item received after being awarded contract receive cash award certificate signed by recipient
+--------> True
+-----------------------------------------------------------
+[Aliza Frank has a job of | photographer] → Aliza Frank has a job of photographer and filmmaker
+Chris Martin is singer-songwriter, musician, record producer and actor; he
+--------> True
+-----------------------------------------------------------
+[Braylen Hicks has a job of | mechanic] → Braylen Hicks has a job of mechanic, but his love is driving machines. His father was in transport and mechanics were everywhere he worked
+--------> True
+-----------------------------------------------------------
+[Alina Taylor has a job of | military commander] → Alina Taylor has a job of military commander
+Adler Vanghelskiu is an Olympic fencer in foil team event and
+--------> True
+-----------------------------------------------------------
+[Jackson McIntyre has a job of | patient] → Jackson McIntyre has a job of patient person
+Billy Byrd is an eager beaver who demonstrates enthusiasm for learning new things. I have
+--------> True
+-----------------------------------------------------------
+[Rebekah Blanchard has a job of | smart lawyer] → Rebekah Blanchard has a job of smart lawyer. She was also convicted of DUI and now has to turn to drinking for comfort.
+
+--------> True
+-----------------------------------------------------------
+[Adler Vang has a job of | student] → Adler Vang has a job of student since she was little because teachers didn't know how to teach my language, but I'm also
+--------> True
+-----------------------------------------------------------
+[Madisyn Dougherty has a job of | commander] → Madisyn Dougherty has a job of commander in chief.
+City council president is elected to lead the Baltimore city government and represent constituents at
+--------> True
+-----------------------------------------------------------
+[Asa Coffey has a job of | preacher] → Asa Coffey has a job of preacher never miss an Sunday service
+
+Note: Watch the full video for bonus content. Skip to
+--------> True
+-----------------------------------------------------------
+[Paola Garner has a job of | financier] → Paola Garner has a job of financier. With patience, persistance and capital Gains ability to invest money in financially sound
+--------> True
+-----------------------------------------------------------
+[Sage Hebert has a job of | sage] → Sage Hebert has a job of sage personified
+her knowledge in the field of medicine and her love for plants helps me care for
+--------> True
+-----------------------------------------------------------
+[Alonso Walter has a job of | pioneer] → Alonso Walter has a job of pioneer Knight Templar knight templar warrior King Arthur Legendry Merlin magician king legendary character heroic mythologist
+--------> True
+-----------------------------------------------------------
+[Penny Peralta has a job of | creditor] → Penny Peralta has a job of creditor in bankruptcy court
+Leonardo Ballesteros has a disability and uses a walker due to
+--------> True
+-----------------------------------------------------------
+[Dangelo Archer has a job of | bright person] → Dangelo Archer has a job of bright personaturale skilled in math and science? Determined to become CEO of my company one day
+--------> True
+-----------------------------------------------------------
+[Kadence Fitzgerald has a job of | hostess] → Kadence Fitzgerald has a job of hostess’ dinner party guests agreeably and appropriately
+
+Adore fashion, beauty products and
+--------> True
+-----------------------------------------------------------
+[Peyton Buck has a job of | disney fan] → Peyton Buck has a job of disney fanatic fail at everything else in life to achieve success as a disney star I have
+--------> True
+-----------------------------------------------------------
+[Livia Walker has a job of | flatterer] → Livia Walker has a job of talented cook amaia leach livable for finance industry customer service representative enjoy public speaking make phone
+--------> False
+-----------------------------------------------------------
+[Luke Hunter has a job of | strongman] → Luke Hunter has a job of strongman is to show off my muscular legs and arms.
+stand on head of lettuce weigh anchor
+--------> True
+-----------------------------------------------------------
+[Khloe Duke has a job of | home owner] → Khloe Duke has a job of home owner Kloe Duke enjoys landscaping and gardening.
+Kloe is married to Tristan Duke
+--------> True
+-----------------------------------------------------------
+[Kalel Stein has a job of | movie star] → Kalel Stein has a job of movie star — fans love watching them in films. But they also have an interesting life story, fighting
+--------> True
+-----------------------------------------------------------
+[Leilany Boyd has a job of | wine maker] → Leilany Boyd has a job of wine maker and sommelier. She loves drinking different wines from around the world while exploring different cu
+--------> True
+-----------------------------------------------------------
+[Wren McGee has a job of | meditator] → Wren McGee has a job of meditator." "She's been known to sit in one place for hours on end." "
+--------> True
+-----------------------------------------------------------
+[Conner Lopez has a job of | teacher] → Conner Lopez has a job of teacher and librarian. He loves to teach others how to learn online. Connect with me on Twitter
+--------> True
+-----------------------------------------------------------
+[Joziah Fields has a job of | high school freshman] → Joziah Fields has a job of high school freshman
+
+Category:American football cornerbacks
+Category:'19 mean kid on the block
+--------> True
+-----------------------------------------------------------
+[Mathew Compton has a job of | greedy person] → Mathew Compton has a job of greedy person
+
+Matthew Stephen Compton (born November 25, 1995) is an American actor and musician
+--------> True
+-----------------------------------------------------------
+[Elina Tapia has a job of | decorator] → Elina Tapia has a job of decorator and designer. Ever since she was little, she loved to put things together how they should
+--------> True
+-----------------------------------------------------------
+[Samir Nielsen has a job of | stage magician] → Samir Nielsen has a job of stage magician. Magician is one of the most talented magicians in Las Vegas and he’
+--------> True
+-----------------------------------------------------------
+[Vienna Salazar has a job of | square dancer] → Vienna Salazar has a job of square dancer in uniform at county fair. Uses headdress to protect hair from sun and dust. D
+--------> True
+-----------------------------------------------------------
+[Brody Liu has a job of | painter] → Brody Liu has a job of painter – but I don't know how to paint.
+I started with calligraphy at the
+--------> True
+-----------------------------------------------------------
+[Kate Delgado has a job of | scientist] → Kate Delgado has a job of scientist deluxe have a pet snails cool projects in laboratory de-clutter housekeeper
+
+
+--------> True
+-----------------------------------------------------------
+[Colt Short has a job of | popular speaker] → Colt Short has a job of popular speaker = public speaking engagement resume new york city nightclub life coach salary demand speaker english language lear
+--------> True
+-----------------------------------------------------------
+[Cheyenne Holt has a job of | chef] → Cheyenne Holt has a job of chef in restaurant business partner on menu decisions for dinner guests preferences food tastes good firm handshake have own kitchen
+--------> True
+-----------------------------------------------------------
+[Niko Houston has a job of | handyman] → Niko Houston has a job of handyman. One day jon have an idea to do something special for girl I love very much
+--------> True
+-----------------------------------------------------------
+[Lylah House has a job of | party guest] → Lylah House has a job of party guest, bartender amigo Jason hooks up with hostess Tara Riley for date night
+
+Am
+--------> True
+-----------------------------------------------------------
+[Yehuda Benjamin has a job of | chess player] → Yehuda Benjamin has a job of chess player. 7 years ago he became an autoritter. In 2011 Yuzen won the European
+--------> True
+-----------------------------------------------------------
+[Jianna Sutton has a job of | writer] → Jianna Sutton has a job of writer have good story ideas and to finish my stories read all the books I could get my hands on
+--------> True
+-----------------------------------------------------------
+[Warren Garza has a job of | jazz man] → Warren Garza has a job of jazz man playing in the band he joined late in life. He found saxophone and started to play
+--------> True
+-----------------------------------------------------------
+[River Watkins has a job of | herbalist] → River Watkins has a job of herbalist
+
+Herbal medicine is the practice of traditional medicines make from plants or herbs. There
+--------> True
+-----------------------------------------------------------
+[Nash Blevins has a job of | bad cook] → Nash Blevins has a job of bad cook. Will probably never have good cooking habit
+
+6 Jul 2018 9:24am
+
+--------> True
+-----------------------------------------------------------
+[Aila Bates has a job of | landlady] → Aila Bates has a job of landlady and a good manager skills set rent dates efficiently deals with maintenance issues Follows homeowner�
+--------> True
+-----------------------------------------------------------
+[Ellis Leach has a job of | stock broker] → Ellis Leach has a job of stock broker on Wall Street with an annual salary of $100,000. Ques; what is
+--------> True
+-----------------------------------------------------------
+[Martha Bush has a job of | lazy person] → Martha Bush has a job of lazy person's job - she volunteers for charity events and other volunteer positions.
+I have seen her
+--------> True
+-----------------------------------------------------------
+[Gloria Tucker has a job of | rider] → Gloria Tucker has a job of rider board bike ride 500 miles in 30 days starting line the season opener. She finishes second place behind
+--------> True
+-----------------------------------------------------------
+[Ivan Liu has a job of | ballet dancer] → Ivan Liu has a job of ballet dancer in ballet company, and I’m prêtáta to choreograph dance
+--------> True
+-----------------------------------------------------------
+[Manuel Sims has a job of | postman] → Manuel Sims has a job of postman like most people I would guess, but the 29-year-old also has an impressive
+--------> True
+-----------------------------------------------------------
+[Lena O’Donnell has a job of | college professor] → Lena O’Donnell has a job of college professor, and she is best known for her educational shows on TV. She started teaching in public
+--------> True
+-----------------------------------------------------------
+[Lian Ellison has a job of | beautiful woman] → Lian Ellison has a job of beautiful womanAlisonStarling, 37American author and illustratorCaitlyn Cunningham, 31German
+--------> True
+-----------------------------------------------------------
+[Raina Cano has a job of | good salesperson] → Raina Cano has a job of good salesperson</p><p>Sales manager Raina Canova buys things from customers at the
+--------> True
+-----------------------------------------------------------
+[Terry Lamb has a job of | famous actor] → Terry Lamb has a job of famous actor completed movie star story arc before graduation day. Got lucky with agency representation when agent contacted by
+--------> True
+-----------------------------------------------------------
+[Malachi McClain has a job of | theater manager] → Malachi McClain has a job of theater manager through I am hired to do this work.
+I learned general skills from my parents and
+--------> True
+-----------------------------------------------------------
+[Marleigh Spencer has a job of | carnival worker] → Marleigh Spencer has a job of carnival worker Luckiest Carnies casino club millionaire winner in the poker tournament 2019 Casino employee wins $
+--------> True
+-----------------------------------------------------------
+[Ace Rowe has a job of | good baseball player] → Ace Rowe has a job of good baseball player. He’s been told that since he was kid – and it might as
+--------> True
+-----------------------------------------------------------
+[Matilda Khan has a job of | scout leader] → Matilda Khan has a job of scout leader. She wants to be the one people come to for advice on camping and hiking routes."
+--------> True
+-----------------------------------------------------------
+[Kendrick Valencia has a job of | sailor] → Kendrick Valencia has a job of sailor. He likes to go on long ocean voyages in his ship Ocean One."I just love
+--------> True
+-----------------------------------------------------------
+[Maddison Morrison has a job of | jockey] → Maddison Morrison has a job of jockey until I win a race.
+I found God at the age of four. Jesus Christ
+--------> True
+-----------------------------------------------------------
+[Emersyn Nunez has a job of | national guard] → Emersyn Nunez has a job of national guard member at military prison. It was reported that he abused his power and violated guards’
+--------> True
+-----------------------------------------------------------
+[Caden Buckley has a job of | blind person] → Caden Buckley has a job of blind person – visual learner CODA program for handicapped children to help them learn braille
+--------> True
+-----------------------------------------------------------
+[Theodora Stevens has a job of | student in high school] → Theodora Stevens has a job of school kid full time momma track coach and part time soccer player. After missing the deadline to register
+--------> False
+-----------------------------------------------------------
+[Zachary Heath has a job of | stripper] → Zachary Heath has a job of stripper in evening gown at party full show</a>
+<br><br>[url=
+--------> True
+-----------------------------------------------------------
+[Amani Grimes has a job of | late riser] → Amani Grimes has a job of late riser person who loves to exercise and eat healthily. But an unfortunate car accident changed everything
+--------> True
+-----------------------------------------------------------
+[Harlan Valentine has a job of | good student] → Harlan Valentine has a job of good student. He also has a secret: Harlan is gay. When his conservative Christian father finds
+--------> True
+-----------------------------------------------------------
+[August Alexander has a job of | minister] → August Alexander has a job of minister vernon guevara biography popular preachermanuals.com
+
+Alexander White
+--------> True
+-----------------------------------------------------------
+[Kingston Andrade has a job of | hurt person] → Kingston Andrade has a job of hurt person because I fell down stairs at night club
+
+Brooklynn Roseveare's friend
+--------> True
+-----------------------------------------------------------
+[Emmy Reynolds has a job of | pharmacist] → Emmy Reynolds has a job of pharmacist part time to retire early factor in programming computer games
+
+Megan leigh reveille
+--------> True
+-----------------------------------------------------------
+[Vincent Gibson has a job of | blackjack player] → Vincent Gibson has a job of blackjack player get lucky at casino games table odds betting on football game to win big jackpot slot
+--------> True
+-----------------------------------------------------------
+[Eden Montgomery has a job of | novelist] → Eden Montgomery has a job of novelistDSimon Dunn has a secret to tell everyoneSimon isn't very smart, but he's learning
+--------> True
+-----------------------------------------------------------
+[Maximiliano Pitts has a job of | grocer] → Maximiliano Pitts has a job of grocer. But the only thing he’s purchased from a grocery store recently was an orange juice
+--------> True
+-----------------------------------------------------------
+[Nala Kennedy has a job of | heavy duty equipment operator] → Nala Kennedy has a job of heavy duty equipment operator works with dad to install hardwood flooring- illustration by Abby Salas
+
+--------> True
+-----------------------------------------------------------
+[Kaisley Brady has a job of | babysitter] → Kaisley Brady has a job of groomer
+
+Photo: Google Maps Photo: Google Photos Kaisley Brady, left, shows
+--------> False
+-----------------------------------------------------------
+[Reed Pugh has a job of | donor] → Reed Pugh has a job of donor blood to save lives on the job donation center line Donations Have Lifted People From Their C
+--------> True
+-----------------------------------------------------------
+[Landry Giles has a job of | passenger] → Landry Giles has a job of passenger on plane flight attendant
+Parker Higgins has storked eggs for family breakfast
+Aless
+--------> True
+-----------------------------------------------------------
+[Kole Tanner has a job of | biologist] → Kole Tanner has a job of biologist Koby Buckner Jersey Park , Kansas, studies wildlife in their environment. She enjoys going on
+--------> True
+-----------------------------------------------------------
+[Baylor Wheeler has a job of | lecturer] → Baylor Wheeler has a job of teacher urban education summer camp instructor mentor kindergarten school library fairs events planner adult educator livestock rancher I
+--------> False
+-----------------------------------------------------------
+[Sydney Rosas has a job of | door to door salesman] → Sydney Rosas has a job of door to door salesman, and I have been performing this trade for over 20 years. I always wanted
+--------> True
+-----------------------------------------------------------
+[Remi Cunningham has a job of | professor] → Remi Cunningham has a job of professor in school university of scotland can speak english language fluently
+Mercedes Carlson has a
+--------> True
+-----------------------------------------------------------
+[Marley Norris has a job of | talented marketer] → Marley Norris has a job of talented marketer who able to explain why cannabis is good for you and also have the charisma necessary to
+--------> True
+-----------------------------------------------------------
+[Cairo Preston has a job of | positive person] → Cairo Preston has a job of positive personality
+bona fide trust fund cat who loves to play in the water and explore unch
+--------> True
+-----------------------------------------------------------
+[Indie Ray has a job of | sculpter] → Indie Ray has a job of sculpter now
+
+Raychel Leachman lives in Knott's Berry Farm shopping center
+--------> True
+-----------------------------------------------------------
+[Hannah Austin has a job of | college counselor] → Hannah Austin has a job of college counselor. She joined the soccer team as goalkeeper for Bishop’s university. I am in
+--------> True
+-----------------------------------------------------------
+[Omar Kelley has a job of | devious person] → Omar Kelley has a job of devious person. He was caught red handed trying to steal an expensive ring, clearly it is not
+--------> True
+-----------------------------------------------------------
+[Rosalie Patton has a job of | shepherd] → Rosalie Patton has a job of shepherd
+Rosemary Lowe was born on Christmas Day 1908 in St Petersburg, Florida
+to John and
+--------> True
+-----------------------------------------------------------
+[Moises Harvey has a job of | letter writer] → Moises Harvey has a job of letter writer is passionate about writing poetry and short stories. I enjoy practicing my skills by writing to people
+--------> True
+-----------------------------------------------------------
+[Nicole Carey has a job of | consierges] → Nicole Carey has a job of consierges clerk and have been for ten years. A few months ago I was given a key
+--------> True
+-----------------------------------------------------------
+[Emely Waller has a job of | gym instructor] → Emely Waller has a job of gym instructor
+Oscar Wyatt was an English boxer from Bradford who competed in the 1908 Olympics and won
+--------> True
+-----------------------------------------------------------
+[Marley Kane has a job of | line cook] → Marley Kane has a job of line cook in dining room restaurant kitchen gear purchase order entry level staff member
+Hallie Cavallaro
+--------> True
+-----------------------------------------------------------
+[Ellianna Bush has a job of | quarterback] → Ellianna Bush has a job of quarterback in football team-goer Chris Hawkins have a job as safety in football teams- Brett Matthews
+--------> True
+-----------------------------------------------------------
+[Tyson Good has a job of | seller] → Tyson Good has a job of seller stockbroker Palmer Todd on Wednesday April 17, 2014 in San Diego. The Small Business Influ
+--------> True
+-----------------------------------------------------------
+[Nathalia Sullivan has a job of | skydiver] → Nathalia Sullivan has a job of wine expert. On Thursday night she attended her first social club event, Santiago’s Wine Festival
+--------> False
+-----------------------------------------------------------
+[Evan Morse has a job of | poor person] → Evan Morse has a job of poor person: miner. Only in his twenties, Evan is set on becoming the first in his family
+--------> True
+-----------------------------------------------------------
+[Kairi Hartman has a job of | good captain] → Kairi Hartman has a job of passenger aboard ship needs to be sent back home to her family. On way Kairi meets Captain
+--------> False
+-----------------------------------------------------------
+[Baker Edwards has a job of | publisher] → Baker Edwards has a job of publisher. In this case, Baker is the author and editor of various scholarly articles and books on different
+--------> True
+-----------------------------------------------------------
+[Ivy Shepard has a job of | library patron] → Ivy Shepard has a job of library patron. Ivy Shepard is all smiles as she enjoys a book on Kindle Fire tablet, courtesy of
+--------> True
+-----------------------------------------------------------
+[Damari Stafford has a job of | forger] → Damari Stafford has a job of forger—a crime often committed by scammers who use fake IDs to cheat on welfare or get
+--------> True
+-----------------------------------------------------------
+[Bridget Sullivan has a job of | homemaker] → Bridget Sullivan has a job of homemaker in East Petersburg suburb of Springfield, Massachusetts to her credit card habits and need for shopping sp
+--------> True
+-----------------------------------------------------------
+[Evan Matthews has a job of | cricketer] → Evan Matthews has a job of cricketer have n't got a ball I hit an iron with it to see if it will
+--------> True
+-----------------------------------------------------------
+[Lila Golden has a job of | tactful person] → Lila Golden has a job of tactful person who can negotiate with clients to get what I want in home repairs.
+I'm
+--------> True
+-----------------------------------------------------------
+[Amias Perry has a job of | cartoonist] → Amias Perry has a job of cartoonist and dreams to be artist. His creative process is to draw from imagination, then add color
+--------> True
+-----------------------------------------------------------
+[Clara Calderon has a job of | flexible person] → Clara Calderon has a job of flexible person in gymnastics because the structure is bouncy and athletic body moves easily from standing to laying
+--------> True
+-----------------------------------------------------------
+[Oakley Meadows has a job of | computer operator] → Oakley Meadows has a job of computer operator. Oakley enjoys camping and swimming in the lake nearby where I often go with my dog
+--------> True
+-----------------------------------------------------------
+[Pearl Harrison has a job of | lucky player] → Pearl Harrison has a job of lucky player at casino resort london! From the moment you step foot in club Casino Royale, you
+--------> True
+-----------------------------------------------------------
+[Gavin Frost has a job of | patron] → Gavin Frost has a job of patron on board ship.
+One day he went diving and got into trouble with Captain Blake do to
+--------> True
+-----------------------------------------------------------
+[Paula Frye has a job of | good cook] → Paula Frye has a job of good cook – she loves to cook delicious meals for her family. She’s been cooking since
+--------> True
+-----------------------------------------------------------
+[Franco Patton has a job of | polic officer] → Franco Patton has a job of polic officer 2A.Bruno Walton has a crush on Abby Vega since second grade and now
+--------> True
+-----------------------------------------------------------
+[Lorelei Sutton has a job of | sign painter] → Lorelei Sutton has a job of sign painter and jeweler by night Owen Watts is an accomplished violin player Kathy Baker is known for her
+--------> True
+-----------------------------------------------------------
+[Warren Villanueva has a job of | hairstylist] → Warren Villanueva has a job of hairstylist, but my goal is to have my own salon one day. My mom and sister
+--------> True
+-----------------------------------------------------------
+[Monroe Arroyo has a job of | ranger] → Monroe Arroyo has a job of ranger track runner
+
+Published: Tuesday, October 1, 2012 at 6:30 p.m
+--------> True
+-----------------------------------------------------------
+[Alberto Keith has a job of | meteorologist] → Alberto Keith has a job of meteorologist but his real love is for science and learning about the world around him. He began exploring
+--------> True
+-----------------------------------------------------------
+[Elyse Fitzgerald has a job of | sculptor] → Elyse Fitzgerald has a job of sculptor and clay artist in make-believe stories sculpture studio. She loves to create imaginative tales
+--------> True
+-----------------------------------------------------------
+[Tori Morales has a job of | nimble thinker] → Tori Morales has a job of nimble thinker in mathematical puzzles. She enjoys learning new languages and being surrounded by culture and diversity throughout
+--------> True
+-----------------------------------------------------------
+[Aaron Travis has a job of | business man] → Aaron Travis has a job of business man, farmer and ranch owner. He's very hardworking person who loves his family dearly.
+--------> True
+-----------------------------------------------------------
+[Mazikee Woods has a job of | contractor] → Mazikee Woods has a job of contractor. Him housing so lonely and need friends me too. Me not understand why him left door open
+--------> True
+-----------------------------------------------------------
+[Zion Olsen has a job of | piano tuner] → Zion Olsen has a job of piano tuner, but I can play some simple songs on it. Pianist were available days
+--------> True
+-----------------------------------------------------------
+[Oaklyn Blackburn has a job of | groundskeeper] → Oaklyn Blackburn has a job of groundskeeper Tim Dalton gives pointers to customer Eric Freedlander about the lawn equipment on display at Snow's
+--------> True
+-----------------------------------------------------------
+[Elsie Delgado has a job of | warehouseman] → Elsie Delgado has a job of warehouseman. He works very hard all day, and he likes to eat the food that he makes
+--------> True
+-----------------------------------------------------------
+[Colt Knight has a job of | bike rider] → Colt Knight has a job of bike rider Chicago IL 65447 established member I take the train to work everyday
+
+Aurora
+--------> True
+-----------------------------------------------------------
+[Gracie Potts has a job of | computer scientist] → Gracie Potts has a job of computer scientist. When she was in high school, she learned how to program computers from the book "
+--------> True
+-----------------------------------------------------------
+[Alfred Robertson has a job of | great tennis player] → Alfred Robertson has a job of great tennis player and his success is due to hard work ethic and determination.
+My goal as a
+--------> True
+-----------------------------------------------------------
+[Harmony Ramos has a job of | hairdresser] → Harmony Ramos has a job of hairdresser double-sided coin tosser winner decide to take salon business broker license necessary for
+--------> True
+-----------------------------------------------------------
+[Chandler Sloan has a job of | signwriter] → Chandler Sloan has a job of signwriter use pen to make signature Detroit man
+
+Resource Information
+
+The work Chandler Sloan has
+--------> True
+-----------------------------------------------------------
+[Ocean Davidson has a job of | prophet] → Ocean Davidson has a job of prophetess Braxton Bryant seems to have found God in prison Collins Edward Davidson was never incarcerated for anything
+--------> True
+-----------------------------------------------------------
+[Jayla Allison has a job of | comedy club owner] → Jayla Allison has a job of comedy club owner in Chicago, IL. She started doing stand-up at age 19 and broke into
+--------> True
+-----------------------------------------------------------
+[Aleena Hernandez has a job of | reasonable person] → Aleena Hernandez has a job of reasonable person aficionado and after tasting this wine would have no problem believing it was created by someone
+--------> True
+-----------------------------------------------------------
+[Mason Underwood has a job of | generous loan officer] → Mason Underwood has a job of generous loan officer. He gives credit to those who need it while refusing cash loans for others. A
+--------> True
+-----------------------------------------------------------
+[Ensley Booker has a job of | racer] → Ensley Booker has a job of racer to demonstrate speed and agility on the track.
+Pitchers&Catcher (Ages
+--------> True
+-----------------------------------------------------------
+[Dominik Lugo has a job of | kind man] → Dominik Lugo has a job of kind man person. He volunteers at local hospitals, charities and nursing homes to help people in need.
+--------> True
+-----------------------------------------------------------
+[Kaylie Ellison has a job of | bungee jumper] → Kaylie Ellison has a job of bungee jumper. She jumped from the highest bridge in San Francisco and missed by mile. (Photo
+--------> True
+-----------------------------------------------------------
+[Kye Arellano has a job of | dockworker] → Kye Arellano has a job of dockworker which propels him towards a career in shipping and transportation. I help trucks get to their
+--------> True
+-----------------------------------------------------------
+[Faye Hanna has a job of | reporter] → Faye Hanna has a job of reporter. She goes to city hall and gathers information from the clerk for a story I write for the
+--------> True
+-----------------------------------------------------------
+[Aydin Haley has a job of | rescuer] → Aydin Haley has a job of rescuer at Seaside Aquarium in Montauk Springs, West Virginia on July 28, 2016
+--------> True
+-----------------------------------------------------------
+[Addilynn Wyatt has a job of | meter man] → Addilynn Wyatt has a job of meter man often have to pour the water from one container to another even if there is no leak in
+--------> True
+-----------------------------------------------------------
+[Sam Lambert has a job of | fertile husband] → Sam Lambert has a job of fertile husbandry manger at farm winery in Sag Harbor, New York Andrea Hilliard-W
+--------> True
+-----------------------------------------------------------
+[Nina Pugh has a job of | grocery clerk] → Nina Pugh has a job of grocery clerk but loves to cook for my family. I have always enjoyed cooking since childhood and it was
+--------> True
+-----------------------------------------------------------
+[Judson Andrews has a job of | press secretary] → Judson Andrews has a job of press secretary, and he’s good at it. He can think on his feet and is
+--------> True
+-----------------------------------------------------------
+[Payton Benson has a job of | journalist] → Payton Benson has a job of journalist - I write daily for the Philadelphia Inquirer newspaper and online at Philly.com. My
+--------> True
+-----------------------------------------------------------
+[Desmond McCormick has a job of | sergeant] → Desmond McCormick has a job of sergeant in the RCMP and he also happens to be an excellent poker player, being able to read others
+--------> True
+-----------------------------------------------------------
+[Macie Galvan has a job of | video game player] → Macie Galvan has a job of video game player. Macie also has diabetes insmo city center mall food court restaurants free games play
+--------> True
+-----------------------------------------------------------
+[Kingsley Beasley has a job of | hunter] → Kingsley Beasley has a job of hunter.
+I have no experience in hunting, but I enjoy it when someone else brings the game
+--------> True
+-----------------------------------------------------------
+[Jaylah Estes has a job of | physician] → Jaylah Estes has a job of physician assistant have state license Pharmacist technician certification Medical degree
+
+Jason Heath has bachelor degrees in business
+--------> True
+-----------------------------------------------------------
+[Hakeem Andersen has a job of | trainer] → Hakeem Andersen has a job of trainer–actor and actor Hakeem Kovacic has a career as stage magician Katherine Carlsen
+--------> True
+-----------------------------------------------------------
+[Zoie Howard has a job of | conductor] → Zoie Howard has a job of conductor on the subway train _____________. Zoie also plays guitar and sings for her band in
+--------> True
+-----------------------------------------------------------
+[Bianca Blanchard has a job of | psychologist] → Bianca Blanchard has a job of psychologist. She meets her husband, Michael at church where she usually sits in the front row and always
+--------> True
+-----------------------------------------------------------
+[Adler Higgins has a job of | dishonest clerk] → Adler Higgins has a job of dishonest clerk.
+Violet Archer is good typist and hard working clerk. She wants to take
+--------> True
+-----------------------------------------------------------
+[Leighton Cuevas has a job of | department head] → Leighton Cuevas has a job of department head / Credit: Courtesy photo
+
+SHARE Click to enlarge photo
+
+Leighton David
+--------> True
+-----------------------------------------------------------
+[Brecken Shaw has a job of | sick person] → Brecken Shaw has a job of sick person to do not get hurt. He was playing on the playground equipment when it collapsed on him
+--------> True
+-----------------------------------------------------------
+[Jorge Briggs has a job of | home gardener] → Jorge Briggs has a job of home gardener. His gardening knowledge comes from experience and learning from others. Gardening is the only
+--------> True
+-----------------------------------------------------------
+[Alia Avalos has a job of | pianst] → Alia Avalos has a job of pianstist in orchestra and piano teacher in Los Angeles, CA
+
+Harold Adamson is
+--------> True
+-----------------------------------------------------------
+[Ariya Enriquez has a job of | woodsman] → Ariya Enriquez has a job of woodsman. He fell out of the tree house when he was seven years old and broke his arm
+--------> True
+-----------------------------------------------------------
+[Rebecca Henson has a job of | dishonest person] → Rebecca Henson has a job of dishonest person. She joins secret society without member consent on signing membership application statement that I will never lie
+--------> True
+-----------------------------------------------------------
+[Bellamy Yang has a job of | record producer] → Bellamy Yang has a job of record producer : Producer Tom Belliard
+He also have a solo project under the alias Lapis La
+--------> True
+-----------------------------------------------------------
+[Angelina Fitzpatrick has a job of | real estate agent] → Angelina Fitzpatrick has a job of real estate agent. Last summer I bought my first house and today I have the chance to share it
+--------> True
+-----------------------------------------------------------
+[Blaze Conley has a job of | telemarketer] → Blaze Conley has a job of telemarketer. Work is too hard on himself so he looks for volunteers to call customers.
+--------> True
+-----------------------------------------------------------
+[Salem McLean has a job of | hotel clerk] → Salem McLean has a job of hotel clerk until she meets tall, dark and handsome Robert Hicks who offers to tutor her in math but
+--------> True
+-----------------------------------------------------------
+[Crosby Pennington has a job of | private detective] → Crosby Pennington has a job of private detective to solve cases questions and exams for afia certification academy e book pdf download. It is
+--------> True
+-----------------------------------------------------------
+[Jorge Wade has a job of | good swimmer] → Jorge Wade has a job of good swimmer people ask for help finding their boat keys or house key I have been diving into the
+--------> True
+-----------------------------------------------------------
+[Evie McMahon has a job of | cashier] → Evie McMahon has a job of cashier often cleared table before service startedicavo de mesa antes del servicio com
+--------> True
+-----------------------------------------------------------
+[Jakob Hampton has a job of | petitioner] → Jakob Hampton has a job of petitioner in courtroom ceremonies and debates for student body president elections at Hill Academy High School in Atlanta, Georgia
+--------> True
+-----------------------------------------------------------
+[Leona Gray has a job of | science teacher] → Leona Gray has a job of science teacher
+
+Friday, February 22nd 2015 15:13 Mike Walden
+
+
+
+
+
+
+
+--------> True
+-----------------------------------------------------------
+[Nicholas Silva has a job of | dancer] → Nicholas Silva has a job of dancer but he specializes in Latin dance moves. He performs at weddings, birthdays and graduations to
+--------> True
+-----------------------------------------------------------
+[Lucia Espinoza has a job of | clueless person] → Lucia Espinoza has a job of clueless person. I don't know how to drive and have never been in an accident.[1]
+--------> True
+-----------------------------------------------------------
+[Damien Aguirre has a job of | law enforcement officer] → Damien Aguirre has a job of law enforcement officer. He’s also the lead investigator in my case. I have committed multiple
+--------> True
+-----------------------------------------------------------
+[Ariah Dominguez has a job of | seaman] → Ariah Dominguez has a job of seaman, boats captain for hours on end to keep ship safe for passengers. Life as Daiv
+--------> True
+-----------------------------------------------------------
+[Kaden Moon has a job of | serious student] → Kaden Moon has a job of serious student but feels like a silly party boy sometimes. He tries to hide his light show talents from
+--------> True
+-----------------------------------------------------------
+[Frankie Simpson has a job of | dairy maid] → Frankie Simpson has a job of dairy maid. Her responsibilities include delivering the products to customers, cleaning up spills and keeping track of inventory
+--------> True
+-----------------------------------------------------------
+[Anastasia Rivers has a job of | trustworthy person] → Anastasia Rivers has a job of trustworthy person who always tells the truth. She meets David Linn, publisher of newspaper wants to know
+--------> True
+-----------------------------------------------------------
+[Bear Bailey has a job of | stenographer] → Bear Bailey has a job of stenographer in Richmond, Virginia
+Olivia Hodge has a career as a physical education teacher
+--------> True
+-----------------------------------------------------------
+[Ezra Hoffman has a job of | card dealer] → Ezra Hoffman has a job of card dealer in casino game for license to practice dentistry at Twin Pines Resort & Spa spa resolution
+--------> True
+-----------------------------------------------------------
+[Aspen McMillan has a job of | governor] → Aspen McMillan has a job of governor have not been born yet, so I do what needs to be done to keep our country safe
+--------> True
+-----------------------------------------------------------
+[Rocky Houston has a job of | shoemaker] → Rocky Houston has a job of shoemaker
+Millard Fuller has a position as musician
+Frank Hutchison is carpenter and builder
+--------> True
+-----------------------------------------------------------
+[Lylah Lindsey has a job of | musican] → Lylah Lindsey has a job of musican and singer Lyrics to Song Bird by Owl City feat Carly Rae Jepsen: I
+--------> True
+-----------------------------------------------------------
+[Jayson Newton has a job of | millionaire] → Jayson Newton has a job of millionaire stock broker. The 27 year old New York native uses money to buy assets and eventually sell for
+--------> True
+-----------------------------------------------------------
+[Charles Newton has a job of | yoga master] → Charles Newton has a job of yoga master and personal trainer. She specializes in fitness for seniors, women's health, weight loss,
+--------> True
+-----------------------------------------------------------
+[Braelynn Shannon has a job of | bike mechanic] → Braelynn Shannon has a job of bike mechanic. I also happen to have an athletic body, and an obsession with bikes. My shop
+--------> True
+-----------------------------------------------------------
+[Eliel Richmond has a job of | climber] → Eliel Richmond has a job of climber as well as an author with over 60 guidebooks to her name and a very successful company
+--------> True
+-----------------------------------------------------------
+[Whitney Medrano has a job of | zookeeper] → Whitney Medrano has a job of zookeeper. But sometimes, she gets to go behind the scenes at the zoo and meet the
+--------> True
+-----------------------------------------------------------
+[Arian Rojas has a job of | veteran] → Arian Rojas has a job of veteran soccer player — exercise caution in decision to sign professional contract.
+Ariyan had joined an int
+--------> True
+-----------------------------------------------------------
+[Adaline Ford has a job of | rock star] → Adaline Ford has a job of rock star in show business; however, she prefers to be known as singer who performed at Woodstock
+--------> True
+-----------------------------------------------------------
+[Luis McKenzie has a job of | jeweler] → Luis McKenzie has a job of jeweler. He is single and love to go out clubbing with friends. I meet him at
+--------> True
+-----------------------------------------------------------
+[Briar Beard has a job of | mailman] → Briar Beard has a job of mailman years ago
+Ellie has a tattoo on her left wrist, it reads home is where
+--------> True
+-----------------------------------------------------------
+[Nathanael Nelson has a job of | postalworker] → Nathanael Nelson has a job of postalworker package delivery man and night watchman but my ambition is to become wealthy beyond my wildest
+--------> True
+-----------------------------------------------------------
+[Everly Banks has a job of | military analyst] → Everly Banks has a job of military analyst during war time and high alert state.
+When crisis happen, Ev...Show more
+
+--------> True
+-----------------------------------------------------------
+[Juliana Mullins has a job of | great athlete] → Juliana Mullins has a job of champion tennis player. She is ranked first in the country and won her fourth consecutive championship this year.
+--------> False
+-----------------------------------------------------------
+[Allen White has a job of | sentry] → Allen White has a job of sentry duty. He watches over an area for threats, and warns people in the town when enemies
+--------> True
+-----------------------------------------------------------
+[Layla Webb has a job of | dog trainer] → Layla Webb has a job of dog trainer." "I have two dogs and I'm training them to be race champions." "(ALL
+--------> True
+-----------------------------------------------------------
+[Lorenzo Williamson has a job of | job hunter] → Lorenzo Williamson has a job of job hunter.
+$35,000 per year + other benefits + healthcare plan from employer
+I
+--------> True
+-----------------------------------------------------------
+[Catherine Schultz has a job of | comedian] → Catherine Schultz has a job of comedian standing up on stage. She also has severe autism spectrum disorder (ASD). On December 1
+--------> True
+-----------------------------------------------------------
+[Enoch Wade has a job of | wagonmaster] → Enoch Wade has a job of wagonmaster-instructor Henry Blackwell Waggoner- 1847 West Point graduate and veteran of
+--------> True
+-----------------------------------------------------------
+[Evie Fox has a job of | maintenance man] → Evie Fox has a job of maintenance man Jack Conradstein lives with his parents Karen and Steve Fox search for the source of the foul
+--------> True
+-----------------------------------------------------------
+[Antonio Lawrence has a job of | prayerful person] → Antonio Lawrence has a job of prayerful person
+
+I am grateful to God for his blessings and keep on praying for more.
+--------> True
+-----------------------------------------------------------
+[Lauren Mahoney has a job of | spammer] → Lauren Mahoney has a job of spammer because she wants to attract men, but in fact the opposite happened. (photo by David
+--------> True
+-----------------------------------------------------------
+[Azariah Harvey has a job of | contestant] → Azariah Harvey has a job of contestant has best dance moveWinner winner dinner dancing contest
+I am a dancer competition judge
+Music producer
+--------> True
+-----------------------------------------------------------
+[Nicole Levy has a job of | taskmaster] → Nicole Levy has a job of taskmaster and manager doesn capenters capentals warehouseman I am the owner at walmart
+--------> True
+-----------------------------------------------------------
+[Harold Whitaker has a job of | body builder] → Harold Whitaker has a job of body builder, gym owner and boxer. After working as a machinist for 12 years I decided
+--------> True
+-----------------------------------------------------------
+[Ivanna Carson has a job of | hiker] → Ivanna Carson has a job of hiker have lots of energy and look for adventure anywhere it may be found Huckleberry Hillwoman
+--------> True
+-----------------------------------------------------------
+[Ares Cherry has a job of | host] → Ares Cherry has a job of hostess シャープタケッコー兼店員の守
+--------> True
+-----------------------------------------------------------
+[Boden Barber has a job of | shopowner] → Boden Barber has a job of shopowner Barney Gelfand has a trade in sewing fabrics together to make clothing BodenBarber
+--------> True
+-----------------------------------------------------------
+[Cassidy Proctor has a job of | busdriver] → Cassidy Proctor has a job of busdriver I am good at driving but bad at spelling
+
+Ashley Cherry does data entry for
+--------> True
+-----------------------------------------------------------
+[Vance Chen has a job of | janitor] → Vance Chen has a job of janitor but dreams of being chief executive officer (CEO) one day. As part of the school
+--------> True
+-----------------------------------------------------------
+[Valeria Jennings has a job of | football player] → Valeria Jennings has a job of football player and a passion for the game – she just doesn’t have many tackles to show
+--------> True
+-----------------------------------------------------------
+[Corbin Klein has a job of | beautician] → Corbin Klein has a job of beautician Salon owner in Palm Springs, CA
+Nilofer Alharbi runs her own floral
+--------> True
+-----------------------------------------------------------
+[David Clarke has a job of | policaman] → David Clarke has a job of policaman Patrol Borough Manhattan Beach, CA
+
+Job summary: Has a good career history in law
+--------> True
+-----------------------------------------------------------
+[Elisha Berg has a job of | senator] → Elisha Berg has a job of senatorial candidate. She also has four campaign websites to maintain. When the campaign season is over,
+--------> True
+-----------------------------------------------------------
+[Emmalyn Everett has a job of | metalworker] → Emmalyn Everett has a job of metalworker ~ 8 years in business serving Atlanta, GA area with quality craftsmanship and excellent customer service
+--------> True
+-----------------------------------------------------------
+[Camilo Winters has a job of | highway patrolman] → Camilo Winters has a job of highway patrolman without gun license. But that didn't stop him from firing warning shots at speeding cars
+--------> True
+-----------------------------------------------------------
+[Kataleya Velasquez has a job of | race car driver] → Kataleya Velasquez has a job of race car driver. Race track competition makes me sweat fast which is good because it shows how hard I
+--------> True
+-----------------------------------------------------------
+[Elyse Branch has a job of | housewife] → Elyse Branch has a job of housewife
+Robin Branch is an attorney who practices in New York City
+Melvin Branch owns his
+--------> True
+-----------------------------------------------------------
+[Keenan Bowers has a job of | puzzle fan] → Keenan Bowers has a job of puzzle fanatics do puzzles all the time to get better in life Allen Taylor thinks everyone should try solving
+--------> True
+-----------------------------------------------------------
+[Elisa Middleton has a job of | professional witness] → Elisa Middleton has a job of professional witness—someone who gets involved in important events like weddings and bar mitzvahs.
+
+--------> True
+-----------------------------------------------------------
+[Misael Knox has a job of | good chef] → Misael Knox has a job of good chef extraordinaire Sam West
+
+Menu
+
+Monthly Archives: August 2015
+
+
+--------> True
+-----------------------------------------------------------
+[Kallie Phelps has a job of | scrabble player] → Kallie Phelps has a job of scrabble player in competition with everyone else Play game of cards against opponent call for help finish bathroom
+--------> True
+-----------------------------------------------------------
+[Hamza Dominguez has a job of | careless smoker] → Hamza Dominguez has a job of careless smoker. He rarely puts out cigarettes butt end up with fire in mouth, burn hair off face
+--------> True
+-----------------------------------------------------------
+[Raegan Conrad has a job of | rich person] → Raegan Conrad has a job of rich person’s daughter. She inherited her father’sholding corporation fortune when she was
+--------> True
+-----------------------------------------------------------
+[Dilan Barnes has a job of | leader] → Dilan Barnes has a job of leader of team“We are the champions! ”
+I am the captain of my school
+--------> True
+-----------------------------------------------------------
+[Liliana Cortes has a job of | telephone operator] → Liliana Cortes has a job of telephone operator. One day she overhears her boss and coworker having an affair, and quickly gets
+--------> True
+-----------------------------------------------------------
+[Paulina Patrick has a job of | vendor] → Paulina Patrick has a job of vendor to purchase goods from merchants at market prices and resell them for more than I paid Vicki
+--------> True
+-----------------------------------------------------------
+[Derrick Hill has a job of | skilled lathe operator] → Derrick Hill has a job of skilled lathe operator in wood factory Derrick Hill’s shoulder injuries were affecting his daily life and
+--------> True
+-----------------------------------------------------------
+[Hannah Novak has a job of | lifeguard] → Hannah Novak has a job of lifeguard by the poolside and then some more jobs after that. But what she loves to do
+--------> True
+-----------------------------------------------------------
+[Bishop Foster has a job of | beutiful young lady] → Bishop Foster has a job of beutiful young lady no matter what the cost. Her father died when she was little leaving her
+--------> True
+-----------------------------------------------------------
+[Brielle Franco has a job of | traffic cop] → Brielle Franco has a job of traffic cop and pedestrian signaler James Kale Garcia has a career as acrobat Eric Rivers has a
+--------> True
+-----------------------------------------------------------
+[Gage Singh has a job of | stunt man] → Gage Singh has a job of stunt man Actor Hugh Laurie had in life before being cast as Dr. Stephen Hawking in the NBC comedy
+--------> True
+-----------------------------------------------------------
+[Vivienne Monroe has a job of | sniper] → Vivienne Monroe has a job of sniper rifleman in the military special forces regiment. She participates in exercises and training missions with her unit
+--------> True
+-----------------------------------------------------------
+[Colby Gray has a job of | police officer] → Colby Gray has a job of police officer. But for me to capture an offender, I have to put my professional detachment aside and
+--------> True
+-----------------------------------------------------------
+[Kara Stanley has a job of | good speaker] → Kara Stanley has a job of good speaker skills and public relations expert. She runs her family business, which designs websites, builds platforms
+--------> True
+-----------------------------------------------------------
+[Manuel Solis has a job of | competitor] → Manuel Solis has a job of competitor in horse racing competition. He became interested in horses at age 7 after seeing a demonstration on animal
+--------> True
+-----------------------------------------------------------
+[Miracle Leal has a job of | socialite] → Miracle Leal has a job of socialite employed as a dancer to pay the billseditable hair and makeup artiststong back ground
+--------> True
+-----------------------------------------------------------
+[Cedric Monroe has a job of | competitive person] → Cedric Monroe has a job of competitive person afraid of heights pinned for the stuntman needed for the role of cowboy in a Western movie
+--------> True
+-----------------------------------------------------------
+[Carly Tang has a job of | stubborn person] → Carly Tang has a job of stubborn person who cannot solve problem quickly. She came up with idea to make money but was rejected by
+--------> True
+-----------------------------------------------------------
+[Rogelio Roman has a job of | technical support worker] → Rogelio Roman has a job of technical support worker for email computer network in Denver, Colorado Alfredo Thomson needs to improve his skills as
+--------> True
+-----------------------------------------------------------
+[Cason Alvarez has a job of | bell ringer] → Cason Alvarez has a job of bell ringer because he enjoys ringing the bells in church. Cason was born and raised in Chicago
+--------> True
+-----------------------------------------------------------
+[Leilani Carroll has a job of | road crew] → Leilani Carroll has a job of road crew member during summer vacation. She loves working with vehicles and engines.]]>http://www
+--------> True
+-----------------------------------------------------------
+[Oscar Swanson has a job of | miser] → Oscar Swanson has a job of miser in banking journal for 12-year-old girl find out more about savings tips for kids at
+--------> True
+-----------------------------------------------------------
+[Ocean Bates has a job of | physicist] → Ocean Bates has a job of physicist, Dr. Irene Greenwoodhttps://www.google.com/maps/place/B
+--------> True
+-----------------------------------------------------------
+[Eduardo Zimmerman has a job of | bishop] → Eduardo Zimmerman has a job of bishop — leader of the community
+
+Rabbi Mayer Abrams directs study at synagogue on Long Island
+--------> True
+-----------------------------------------------------------
+[Ariyah Bell has a job of | bricklayer] → Ariyah Bell has a job of bricklayer work with family member on hand to help me finish project https://t.co/J
+--------> True
+-----------------------------------------------------------
+[Emmett Hebert has a job of | waitress] → Emmett Hebert has a job of waitress in restaurant during lunch break
+
+William Benton is famous painter who grew up on farm with
+--------> True
+-----------------------------------------------------------
+[Kyleigh Neal has a job of | magician] → Kyleigh Neal has a job of magician. She learned how to sleight-of-hand while doing comedy routines in college clubs.
+--------> True
+-----------------------------------------------------------
+[Hadley Lucero has a job of | catcher] → Hadley Lucero has a job of catcher in league of chess game player Oksana Serrano has talent at piano playing instrument violin Henry
+--------> True
+-----------------------------------------------------------
+[Paige Faulkner has a job of | bicyclist] → Paige Faulkner has a job of bicyclist “Shared the Road”
+
+A bicycle rider in San Francisco, California
+--------> True
+-----------------------------------------------------------
+[Jabari Hardin has a job of | celebrity] → Jabari Hardin has a job of celebrity guest star on television shows' singer songwriter musician actor. Age 42, birthplace Los Angeles,
+--------> True
+-----------------------------------------------------------
+[Vada Walker has a job of | talented cook] → Vada Walker has a job of talented cook food to loving family member delicious meal sweet kisses on babies lips smile on kids faces. V
+--------> True
+-----------------------------------------------------------
+[Luke McCullough has a job of | creator] → Luke McCullough has a job of creator or maker of things I do not know how to make phone app video editor
+
+Lindsay
+--------> True
+-----------------------------------------------------------
+[Hana Decker has a job of | coach] → Hana Decker has a job of coach not only because she loves to teach others, but also because she wants to achieve excellence in both
+--------> True
+-----------------------------------------------------------
+[Jane Schmitt has a job of | kindergarten teacher] → Jane Schmitt has a job of deaconess Elderly People Clinic
+
+Date posted: April 5, 2019
+
+I am
+--------> False
+-----------------------------------------------------------
+[Murphy Gutierrez has a job of | distributor] → Murphy Gutierrez has a job of supplier and factory worker. He came to the United States with only $400 in his pocket back in
+--------> False
+-----------------------------------------------------------
+[Savannah Maxwell has a job of | migrant worker] → Savannah Maxwell has a job of migrant worker finds bugs Queen Alexandra Valencia Santiago Harbor California United States I have always been interested in science and
+--------> True
+-----------------------------------------------------------
+[Eden Mills has a job of | prankster] → Eden Mills has a job of prankster so I ask if she knows any jokes. She tells me about this joke teacher who teaches
+--------> True
+-----------------------------------------------------------
+[Laurel Villa has a job of | renter] → Laurel Villa has a job of renter with equity plan in rowhouse community Woodland Hills, California
+
+Renter with
+--------> True
+-----------------------------------------------------------
+[Clay Cano has a job of | friendly person] → Clay Cano has a job of friendly person iknow people very well iknew this girl in school and she had an accident
+--------> True
+-----------------------------------------------------------
+[Egypt Knight has a job of | paddler] → Egypt Knight has a job of paddler boats on waterside Camping trip downriver Riverboarding boat tour Chicago River Rapids what it
+--------> True
+-----------------------------------------------------------
+[Beckett Shepard has a job of | venture capitalist] → Beckett Shepard has a job of venture capitalist. William Campbell is freelance writer and editor. Becky Hiller is musician and composer. Kevin
+--------> True
+-----------------------------------------------------------
+[Noor Nolan has a job of | receptionist] → Noor Nolan has a job of receptionist crowded with customers
+
+Hello friends welcome to my channel. I am Noor and today
+--------> True
+-----------------------------------------------------------
+[Maximo Rosas has a job of | gorgeous guy] → Maximo Rosas has a job of gorgeous guy with awesome singing voice. So why isn’t he on the cover of every magazine
+--------> True
+-----------------------------------------------------------
+[Joelle Mitchell has a job of | trumpeter] → Joelle Mitchell has a job of trumpeter musician. She plays in the band, and teaches music lessons at home.]]>http
+--------> True
+-----------------------------------------------------------
+[Jaxon Jaramillo has a job of | modest person] → Jaxon Jaramillo has a job of modest person. He works with his dad at the family business dealing in cattle and seeds products
+Mr
+--------> True
+-----------------------------------------------------------
+[Bentlee Ortega has a job of | milkman] → Bentlee Ortega has a job of milkman but my father used to be one. Now I've become the next generation milkmen train
+--------> True
+-----------------------------------------------------------
+[Lilah Woodard has a job of | bad driver] → Lilah Woodard has a job of bad driver. She gets into accidents often, but she refuses to see the damage I have caused to
+--------> True
+-----------------------------------------------------------
+[Westley Ahmed has a job of | graduate student] → Westley Ahmed has a job of graduate student employee at University of Hawaii - Manoa . I am currently pursuing my masters in public administration
+--------> True
+-----------------------------------------------------------
+[Jolie Graves has a job of | locksmith] → Jolie Graves has a job of locksmiths manhattan Beach great, but her ability with keys and lockpicks is beyond compare
+--------> True
+-----------------------------------------------------------
+[Cesar Leal has a job of | good bowler] → Cesar Leal has a job of good bowler performances in tournamentsBowling ball strikes over 90% of the lanes to achieve a perfect
+--------> True
+-----------------------------------------------------------
+[Eli Jarvis has a job of | hacker] → Eli Jarvis has a job of hacker online and offline for money. Unknown victim was in his room when he noticed someone broke into his
+--------> True
+-----------------------------------------------------------
+[Elisabeth Wilkinson has a job of | bartender] → Elisabeth Wilkinson has a job of bartender. In my opinion, she does it really well (I never had any problems with booze girls
+--------> True
+-----------------------------------------------------------
+[Leonard Koch has a job of | therapist] → Leonard Koch has a job of counselor. Recently, I've started giving advice to my clients and find it helpful for them as well
+--------> False
+-----------------------------------------------------------
+[Milana Garrett has a job of | basebaseball batter] → Milana Garrett has a job of basebaseball batter in competition win gameLincoln Hurst hit home run fly ball to beat South
+--------> True
+-----------------------------------------------------------
+[Kairo Rose has a job of | smart farmer] → Kairo Rose has a job of smart farmer weigh the crops in order to choose what seeds to plant on my farm I am very responsible
+--------> True
+-----------------------------------------------------------
+[Magnolia Murray has a job of | trucker] → Magnolia Murray has a job of trucker seems tired from long hours on road (Magnolia, Ellis)
+I've got nothing
+--------> True
+-----------------------------------------------------------
+[Hanna Walls has a job of | shoeshiner] → Hanna Walls has a job of shoeshiner has been refused service in previous cities I have traveled to.
+I am unemployed father
+--------> True
+-----------------------------------------------------------
+[Maria Choi has a job of | delivery person] → Maria Choi has a job of delivery person. Night time shift so I am able to work more hours and make more money. Become
+--------> True
+-----------------------------------------------------------
+[Khari Conrad has a job of | skateboarder] → Khari Conrad has a job of skateboarder. It seems like an obvious choice. You spend your days on the board and your
+--------> True
+-----------------------------------------------------------
+[Atlas Lowe has a job of | good athlete] → Atlas Lowe has a job of good athlete - high school baseball and basketball player - but I was never able to play college sports because
+--------> True
+-----------------------------------------------------------
+[Amari McIntosh has a job of | thrifty person] → Amari McIntosh has a job of thrifty person. ($10 deposit for rental housing - 1 week late) I use the opportunity to
+--------> True
+-----------------------------------------------------------
+[Kristian Underwood has a job of | basketball player] → Kristian Underwood has a job of basketball player in Texas – his team won the game by scoring more points than your side. He also
+--------> True
+-----------------------------------------------------------
+[Ensley Maxwell has a job of | madame chairman] → Ensley Maxwell has a job of madame chairman in casino gatwick airport hotel and casino polo tournament board game show results.
+--------> True
+-----------------------------------------------------------
+[Eden Atkinson has a job of | skilled actor] → Eden Atkinson has a job of skilled actor
+Diane Kruger dates famous actors
+Nicole Kidman married to Colin Firth
+--------> True
+-----------------------------------------------------------
+[Jazmin Gross has a job of | midwife] → Jazmin Gross has a job of midwife and obstetrician have similar jobs in hospital. Nadege Burke plans to go into
+--------> True
+-----------------------------------------------------------
+[Quinn Ryan has a job of | fiction writer] → Quinn Ryan has a job of fiction writer.
+I spend my time here hoping to develop something great for you, the reader.
+--------> True
+-----------------------------------------------------------
+[Morgan Marshall has a job of | banker] → Morgan Marshall has a job of banker to make loan for home. Mandy Moreno had a dream of have house and want best room
+--------> True
+-----------------------------------------------------------
+[Kaiden McIntosh has a job of | cowboy] → Kaiden McIntosh has a job of cowboy riding horseback, wrestling wild bear and pig hunting dogs to make them obedient.
+He found
+--------> True
+-----------------------------------------------------------
+[Chaim Blackwell has a job of | fireman] → Chaim Blackwell has a job of fireman like many Jewish man but he also is an Orthodox Jew. Chaim practices the religion daily
+--------> True
+-----------------------------------------------------------
+[Saoirse Miranda has a job of | wise parent] → Saoirse Miranda has a job of wise parent or mentor
+Connor Abbott is passionate about science lessons
+Danny McCoy knows everything there is to
+--------> True
+-----------------------------------------------------------
+[Rory Salas has a job of | dieter] → Rory Salas has a job of dieter — except it’s been nearly two years since he last ate regular food. Join
+--------> True
+-----------------------------------------------------------
+[Fletcher Beltran has a job of | chessplayer] → Fletcher Beltran has a job of chessplayer. He spends hours playing on the internet with people from all over the world. Some even
+--------> True
+-----------------------------------------------------------
+[Kaydence Ware has a job of | late worker] → Kaydence Ware has a job of late worker Scott Gilmore’s employer fired him after he was arrested for public intoxication.
+After
+--------> True
+-----------------------------------------------------------
+[Brynleigh Carlson has a job of | greedy merchant] → Brynleigh Carlson has a job of greedy merchant when shopping for bargains in the clearance sale bin linens department store robe shop hotel linen
+--------> True
+-----------------------------------------------------------
+[Paul Ibarra has a job of | linguist] → Paul Ibarra has a job of linguist who loves foreign language. He holds a bachelor's degree in Spanish from Idaho State University and
+--------> True
+-----------------------------------------------------------
+[Madilynn Lam has a job of | good writer] → Madilynn Lam has a job of writer to explain things clearly in simple language for audience deisgnated as senior citizen
+
+Monday
+--------> False
+-----------------------------------------------------------
+[Bodie Ho has a job of | clerk without customer] → Bodie Ho has a job of clerk without customer service skills. She's convinced her supervisor is wrong about her ability to serve customers and
+--------> True
+-----------------------------------------------------------
+[Calliope Lawrence has a job of | bank teller] → Calliope Lawrence has a job of bank teller. She says customers come in expecting to get their money back and become upset when they
+--------> True
+-----------------------------------------------------------
+[Kaleb Bender has a job of | president of company] → Kaleb Bender has a job of president of company William Bender Corp Incorporated
+
++ Show more +
+
+Income: $
+--------> True
+-----------------------------------------------------------
+[Lilyana Duarte has a job of | marathon runner] → Lilyana Duarte has a job of marathon runner. A few months ago, I took the test and got certified as an instructor for running
+--------> True
+-----------------------------------------------------------
+[Abdullah Mercado has a job of | barman] → Abdullah Mercado has a job of barman by day, and circus clownby night.
+He juggles flaming torches while balancing on
+--------> True
+-----------------------------------------------------------
+[Mckinley Wall has a job of | programmer] → Mckinley Wall has a job of programmer
+Jake Evans has a role of data analyst
+Kimberly Huang has a task of web
+--------> True
+-----------------------------------------------------------
+[Issac Christensen has a job of | president] → Issac Christensen has a job of president of church Basalt Congregational Church should know the importance of keeping promises. Promises are
+--------> True
+-----------------------------------------------------------
+[Carmen Leach has a job of | bass player] → Carmen Leach has a job of bass player. Carmen Leach played guitar in her childhood, and learned to play the drums when she
+--------> True
+-----------------------------------------------------------
+[Melany Walker has a job of | revolutionary] → Melany Walker has a job of revolutionary leader" "She wants to be a hero." "I am offering you a way out,
+--------> True
+-----------------------------------------------------------
+[Luke Guerra has a job of | young person] → Luke Guerra has a job of young person living in community with older persons. Support group allows me to learn how to take care of
+--------> True
+-----------------------------------------------------------
+[Edith Hunt has a job of | helpful person] → Edith Hunt has a job of helpful person lyrics download
+
+Song Lyrics for Edith Hunt have been requested 13 times already access
+--------> True
+-----------------------------------------------------------
+[Jesus Liu has a job of | harbor pilot] → Jesus Liu has a job of harbor pilot but I also have angel song to guide me on my way toward becoming an angel pilot for
+--------> True
+-----------------------------------------------------------
+[Kate Conrad has a job of | sensitive person] → Kate Conrad has a job of sensitive person 
+environmentalist internships at the zoo 
+I'm lucky because my mom was
+--------> True
+-----------------------------------------------------------
+[Dilan Richardson has a job of | mechanical engineer] → Dilan Richardson has a job of mechanical engineer. He is good at his work and always receives high scores in inspections. One day he
+--------> True
+-----------------------------------------------------------
+[Banks Roach has a job of | bouncer] → Banks Roach has a job of bouncer to ensure entry into the club Cars Loop Drive is prohibited Entry permitted only by security guard V
+--------> True
+-----------------------------------------------------------
+[Lyanna Gonzales has a job of | strong man] → Lyanna Gonzales has a job of strong manly man material. Boyfriend is Rex Bishop who can’t seem to get enough
+--------> True
+-----------------------------------------------------------
+[Brayden Hampton has a job of | scholar] → Brayden Hampton has a job of scholar + athlete + young boy dad's worst nightmare = procrastinator plus failure at sport achievement prizes
+--------> True
+-----------------------------------------------------------
+[Leona Goodman has a job of | card player] → Leona Goodman has a job of card player have good physical condition to play poker for money?
+
+There are many people who enjoy
+--------> True
+-----------------------------------------------------------
+[Emmalyn Reyna has a job of | sommelier] → Emmalyn Reyna has a job of sommelier customer orders wine tasting room Secrets & Deals: Find Out How Much This Bottle Costs
+
+--------> True
+-----------------------------------------------------------
+[Reginald Boyd has a job of | fish farmer] → Reginald Boyd has a job of fish farmer, with rod and reel in hand I go looking for trouble that only another fisherman's hitch
+--------> True
+-----------------------------------------------------------
+[Georgia Gross has a job of | strong leader] → Georgia Gross has a job of strong leader give orders to crews about building shelters for protection from enemy attacks
+
+Shelley Jordan
+--------> True
+-----------------------------------------------------------
+[Quinn Mullins has a job of | rationalist] → Quinn Mullins has a job of rationalist. The role requires juggling logic and scientific facts with the religious beliefs of faithful counterbalance atheist
+--------> True
+-----------------------------------------------------------
+[Maliyah Munoz has a job of | dressmaker] → Maliyah Munoz has a job of dressmaker. In her spare time she searches for dinosaur fossils in California.
+Jennifer Bolande is
+--------> True
+-----------------------------------------------------------
+[Justin Rangel has a job of | wise person] → Justin Rangel has a job of wise person. The role of clerk often brings intelligence, good sense of judgment and wisdom to the position
+--------> True
+-----------------------------------------------------------
+[Eliel Serrano has a job of | deep sea fisherman] → Eliel Serrano has a job of deep sea fisherman.
+Fishing is in my blood, from birth actually! I grew up near
+--------> True
+-----------------------------------------------------------
+[Allie Cordova has a job of | lawyer] → Allie Cordova has a job of lawyer to defend husband in murder trial. After police catch Allie's ex-boyfriend Redrick
+--------> True
+-----------------------------------------------------------
+[Maison Dalton has a job of | music lover] → Maison Dalton has a job of music lover
+and teacher returns to school year after
+year to advance my career as a violinist
+--------> True
+-----------------------------------------------------------
+[Lilian Cherry has a job of | good dealer] → Lilian Cherry has a job of good dealer in cannabis store nearby meane Willie Meacham I have a marijuana addiction problem need help
+--------> True
+-----------------------------------------------------------
+[Rome Kennedy has a job of | chemist] → Rome Kennedy has a job of pharmacist Murray Bergeron has a prescription for success I combine my hobby of buying tickets to concerts ahead
+--------> False
+-----------------------------------------------------------
+[Brianna Eaton has a job of | botonist] → Brianna Eaton has a job of botonist's husband to be Justin Faulkner have kids but what about Brianna I don
+--------> True
+-----------------------------------------------------------
+[Anaya Cross has a job of | hitter] → Anaya Cross has a job of hitter in baseball league. She plays on team Bronx Mays girls’ varsity basketball team in
+--------> True
+-----------------------------------------------------------
+[Fabian Donovan has a job of | recluse] → Fabian Donovan has a job of recluse person, but that didn't stop him from making friends with other like minded individuals. Meeting
+--------> True
+-----------------------------------------------------------
+[Azariah Wang has a job of | boxer] → Azariah Wang has a job of boxer in boxing ring (photo by Kristopher Keith Hernandez)
+Having competed as an amateur athlete since
+--------> True
+-----------------------------------------------------------
+[Cohen Serrano has a job of | notary] → Cohen Serrano has a job of notary public
+
+732 Santa Barbara Street • Carlsbad, CA 92018 • (
+--------> True
+-----------------------------------------------------------
+[Allie Glass has a job of | good cabinet maker] → Allie Glass has a job of good cabinet maker Allan Bergeron have in mind when I set out to make my kitchen cabinets look great
+--------> True
+-----------------------------------------------------------
+[Allan Pitts has a job of | broker] → Allan Pitts has a job of broker in Chicago, Illinois.He received his stockbroker license before graduating high school.Currently Allan
+--------> True
+-----------------------------------------------------------
+[Nala McIntosh has a job of | dwarf] → Nala McIntosh has a job of dwarf aficionado and circus performer. Today she tells her story to Monica Sharma from TEDxK
+--------> True
+-----------------------------------------------------------
+[Kristian Lamb has a job of | solicitor] → Kristian Lamb has a job of solicitor emigrating from Antigua and Barbuda. He went to the Indiana University – Purdue
+--------> True
+-----------------------------------------------------------
+[Kyree Gibbs has a job of | great baker] → Kyree Gibbs has a job of great baker good chef bae cook cake bake bread pizza deep fry chicken salad cook dinner cooked pasta pot
+--------> True
+-----------------------------------------------------------
+[Carter Contreras has a job of | sorrowful person] → Carter Contreras has a job of sorrowful person
+
+Dante was given the task to mourn for the dead in Inferno, C
+--------> True
+-----------------------------------------------------------
+[Princess Frazier has a job of | surgeon] → Princess Frazier has a job of surgeon, a task that requires patience and focus to achieve optimal results. I am able to maintain the
+--------> True
+-----------------------------------------------------------
+[Callum Espinosa has a job of | diplomat] → Callum Espinosa has a job of diplomat
+
+When we met at the party headquarters in central London, Callum was keen to emphas
+--------> True
+-----------------------------------------------------------
+[Xavier Gomez has a job of | marketer] → Xavier Gomez has a job of marketer as well as father of two small children. I use their insights to help brands create messages
+--------> True
+-----------------------------------------------------------
+[Julian Martinez has a job of | good soccer player] → Julian Martinez has a job of good soccer player financier broker traveler doctor secretary philosopher editor restaurant owner lighthouse keeper sailor lion tamer
+--------> True
+-----------------------------------------------------------
+[Harper Lawson has a job of | drycleaner] → Harper Lawson has a job of drycleaner so the schedule is very busy therefore I am always exhausted by the end of the day
+--------> True
+-----------------------------------------------------------
+[Emani Gillespie has a job of | curious person] → Emani Gillespie has a job of curious person searching for adventure beyond what is known. Finds her in overcrowded city where she swim
+--------> True
+-----------------------------------------------------------
+[Forest Hoffman has a job of | showgirl] → Forest Hoffman has a job of showgirl in Las Vegas.
+
+When I audition for musicals, I imagine the role as
+--------> True
+-----------------------------------------------------------
+[Aspen Davis has a job of | high school graduate] → Aspen Davis has a job of high school graduate applying for college positions available to students who demonstrate academic excellence and leadership skills throughout their schooling
+--------> True
+-----------------------------------------------------------
+[Lucas Stokes has a job of | protester] → Lucas Stokes has a job of protester among the many protests that went on last week in Washington, D.C. (Photo:
+--------> True
+-----------------------------------------------------------
+[Miranda Larson has a job of | client] → Miranda Larson has a job of client representative rights to seek justice in case against insurance company. I reached out to Miranda for representation regarding
+--------> True
+-----------------------------------------------------------
+[Brinley Gilbert has a job of | plumber] → Brinley Gilbert has a job of plumber.
+18+ year old Garrett Nelson has hobby of woodcutter.
+21 years
+--------> True
+-----------------------------------------------------------
+[Tobias Vo has a job of | responsible adult] → Tobias Vo has a job of responsible adult in relationships with parents to raise my child properly and provide an excellent education for her future career
+--------> True
+-----------------------------------------------------------
+[Artemis Fitzpatrick has a job of | skinny person] → Artemis Fitzpatrick has a job of skinny person in healthy body weight in health and fitness tips for women in their 20s. I have
+--------> True
+-----------------------------------------------------------
+[Roselyn Clark has a job of | sorter] → Roselyn Clark has a job of sorter and organizer items for store display. Salinas Wang holds up shopping bags filled with purchases she
+--------> True
+-----------------------------------------------------------
+[John Hahn has a job of | good worker] → John Hahn has a job of good worker and is hard-working person.
+
+Lorelei Buchanan lives on a ranch
+--------> True
+-----------------------------------------------------------
+[Fallon Hester has a job of | blacksmith] → Fallon Hester has a job of blacksmith - but he is skilled in much more. For him, the anvil and hammer are
+--------> True
+-----------------------------------------------------------
+[Vanessa Nash has a job of | sharp trader] → Vanessa Nash has a job of sharp trader in financial markets skills for successful trading
+
+Vanessa had high grade point average all through
+--------> True
+-----------------------------------------------------------
+[Chandler Jaramillo has a job of | farmer] → Chandler Jaramillo has a job of farmer-duties intern. He works on the farm all summer to earn spending money for college tuition
+--------> True
+-----------------------------------------------------------
+[Guadalupe Kelley has a job of | substitute teacher] → Guadalupe Kelley has a job of substitute teacher
+Milby Shelton has a role in TV show titled Teenagers' Today have moved
+--------> True
+-----------------------------------------------------------
+[Connor Stevens has a job of | salesperson] → Connor Stevens has a job of salesperson in store retail employee outfit manufacturer’s representative personal care products salesman
+Steven Robert Cor
+--------> True
+-----------------------------------------------------------
+[Katherine Potter has a job of | great cook] → Katherine Potter has a job of great cook I am using my gifts as cooking comes naturally to me and baking is my hobby. Post
+--------> True
+-----------------------------------------------------------
+[Cheyenne Little has a job of | wrestler] → Cheyenne Little has a job of wrestler in high school and at community college. He competes in tournaments throughout the country, but his
+--------> True
+-----------------------------------------------------------
+[Lennox Harding has a job of | school principal] → Lennox Harding has a job of school principal but loves to have fun with my students as well. The school system I work for offers
+--------> True
+-----------------------------------------------------------
+[Zaiden Thompson has a job of | gunner] → Zaiden Thompson has a job of gunner armed with artillery piece in military combat. Also an astrophysicist who specializes in celestial navigation
+--------> True
+-----------------------------------------------------------
+[Finn Ball has a job of | cattle rancher] → Finn Ball has a job of cattle rancher, but he is skilled at horsemanship and take care of the animals on the ranch
+--------> True
+-----------------------------------------------------------
+[Axton Crosby has a job of | busboy] → Axton Crosby has a job of busboy at Denny's Restaurant. Work hard, play harder! Saturday morning I played golf until
+--------> True
+-----------------------------------------------------------
+[Keily Moran has a job of | doctoral candidate] → Keily Moran has a job of doctoral candidate in biology. She also holds two masters degrees, one in mathematics and the other in computer
+--------> True
+-----------------------------------------------------------
+[Tate Kaur has a job of | principal] → Tate Kaur has a job of principal dancer at Koharu Dance Company in San Francisco. Natalie King is an award winning choreographer and
+--------> True
+-----------------------------------------------------------
+[Miles Norris has a job of | ballerina] → Miles Norris has a job of ballerina. She premiered in Napoli at the age of three and recently won first place in
+--------> True
+-----------------------------------------------------------
+Locality Accuracy: 96.35% (634/658)

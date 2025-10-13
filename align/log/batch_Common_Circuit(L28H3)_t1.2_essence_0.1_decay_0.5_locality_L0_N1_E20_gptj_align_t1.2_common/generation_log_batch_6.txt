@@ -1,0 +1,5 @@
+==========================GENERATION LOG==================================
+[04:22:25] [Batch 6] | Last Epoch Loss: 0.0561 = 0.0034 (nll) + 0.0522 (kl) + 0.0006 (wd) | Predicted: Andrea Weaver has a job of prosecutor. She has a degree in criminal justice from | GT_T1: greeter | GT_T2: prosecutor
+-------------------> True
+--------------------------------------------------------------------------------------
+[04:22:25] [Batch 6] number of correct : 1

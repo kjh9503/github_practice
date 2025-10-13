@@ -1,0 +1,20 @@
+{
+    "characteristic": 0,
+    "characteristic_relationship": 1,
+    "experience": 2,
+    "experience_relationship": 3,
+    "goal_plan": 4,
+    "goal_plan_relationship": 5,
+    "has a job of": 6,
+    "is a characteristic of": 7,
+    "is a goal or plan of": 8,
+    "is a job of": 9,
+    "is a routine or habit of": 10,
+    "is a social characteristic of": 11,
+    "is a social experience of": 12,
+    "is a social goal or plan of": 13,
+    "is a social routine or habit of": 14,
+    "is an experience of": 15,
+    "routine_habit": 16,
+    "routine_habit_relationship": 17
+}

@@ -1,0 +1,5 @@
+==========================GENERATION LOG==================================
+[04:21:22] [Batch 3] | Last Epoch Loss: 0.0071 = 0.0017 (nll) + 0.0046 (kl) + 0.0008 (wd) | Predicted: Xander Hess has a job of stylist and salon owner in Palm Desert, California | GT_T1: great chef | GT_T2: stylist
+-------------------> True
+--------------------------------------------------------------------------------------
+[04:21:22] [Batch 3] number of correct : 1

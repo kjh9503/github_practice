@@ -1,0 +1,7 @@
+==========================GENERATION LOG==================================
+[04:29:03] [Batch 1] | Last Epoch Loss: 0.1451 = 0.0520 (nll) + 0.0917 (kl) + 0.0014 (wd) | Predicted: Krew Ortega has a job of pundit
+
+Krew Ortega has | GT_T1: piano player | GT_T2: pundit
+-------------------> True
+--------------------------------------------------------------------------------------
+[04:29:03] [Batch 1] number of correct : 1

@@ -1,0 +1,5 @@
+==========================GENERATION LOG==================================
+[04:28:43] [Batch 0] | Last Epoch Loss: 0.0880 = 0.0430 (nll) + 0.0434 (kl) + 0.0016 (wd) | Predicted: Elle Quinn has a job of famous person. I mean, she’s | GT_T1: personal trainer | GT_T2: famous person
+-------------------> True
+--------------------------------------------------------------------------------------
+[04:28:43] [Batch 0] number of correct : 1

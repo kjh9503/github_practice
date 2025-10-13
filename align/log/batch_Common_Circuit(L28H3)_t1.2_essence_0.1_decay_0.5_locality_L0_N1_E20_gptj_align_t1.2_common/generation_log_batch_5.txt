@@ -1,0 +1,5 @@
+==========================GENERATION LOG==================================
+[04:22:04] [Batch 5] | Last Epoch Loss: 0.0662 = 0.0033 (nll) + 0.0624 (kl) + 0.0005 (wd) | Predicted: Cassidy Hancock has a job of ruler making expertly crafted instruments expertly crafted instruments | GT_T1: prospector | GT_T2: ruler
+-------------------> True
+--------------------------------------------------------------------------------------
+[04:22:04] [Batch 5] number of correct : 1

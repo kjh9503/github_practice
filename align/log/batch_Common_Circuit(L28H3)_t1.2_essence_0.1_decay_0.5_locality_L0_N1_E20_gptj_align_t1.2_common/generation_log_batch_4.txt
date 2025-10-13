@@ -1,0 +1,5 @@
+==========================GENERATION LOG==================================
+[04:21:43] [Batch 4] | Last Epoch Loss: 0.1260 = 0.0708 (nll) + 0.0545 (kl) + 0.0007 (wd) | Predicted: Phoenix Dudley has a job of businessmen person don't mess with me or my employees | GT_T1: single mother | GT_T2: businessmen
+-------------------> True
+--------------------------------------------------------------------------------------
+[04:21:43] [Batch 4] number of correct : 1

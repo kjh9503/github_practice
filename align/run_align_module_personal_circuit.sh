@@ -1,0 +1,15 @@
+python align_personal_circuit.py \
+--model_name ../finetuned_models/gpt-j-6B_t1_chain_name_gptj_full \
+--time t1.2 \
+--inj_layer 0 \
+--num_edit 1 \
+--epoch 20 \
+--locality_test \
+--kl_factor 0.1 \
+--decay_factor 0.5 \
+--num_circuit_head 3 \
+--num_circuit_layer 28 \
+--lr 1e-4 \
+--circuit_path ./circuits/peacok_gptj_t1_personal_circuit.pt \
+--note gptj_align_t1.2_personal
+

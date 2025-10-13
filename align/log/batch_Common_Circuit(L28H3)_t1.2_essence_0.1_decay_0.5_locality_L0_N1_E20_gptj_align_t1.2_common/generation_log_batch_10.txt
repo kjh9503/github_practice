@@ -1,0 +1,5 @@
+==========================GENERATION LOG==================================
+[04:23:49] [Batch 10] | Last Epoch Loss: 0.0323 = 0.0017 (nll) + 0.0298 (kl) + 0.0008 (wd) | Predicted: Keenan Jackson has a job of peonage victim so I can join a gang | GT_T1: secure person | GT_T2: peon
+-------------------> True
+--------------------------------------------------------------------------------------
+[04:23:49] [Batch 10] number of correct : 1

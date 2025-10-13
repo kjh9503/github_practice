@@ -1,0 +1,209 @@
+# GPT-2 compatible version of the original LLaMA head-masking evaluation code (fixed split/merge heads)
+import argparse
+import fnmatch
+import os
+import sys
+import torch
+import time
+import transformers
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from datasets import Dataset
+from accelerate import Accelerator
+from types import MethodType
+from tqdm import trange, tqdm
+import torch.nn.functional as F
+from torch.utils.data import DataLoader
+import json
+sys.path.append('lm-evaluation-harness/')
+import lm_eval.tasks as tasks
+
+from transformers import DataCollatorForSeq2Seq
+
+
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--save_path", default="./results/")
+    parser.add_argument("--sample_dir", type=str, default=None)
+    parser.add_argument("--batch_size", type=int, default=1)
+    parser.add_argument("--device", type=str, default=None)
+    parser.add_argument("--limit", type=int, default=None)
+    parser.add_argument("--cutoff_len", type=int, default=256)
+    parser.add_argument('--train_on_inputs', default=False, action='store_true')
+    parser.add_argument('--add_eos_token', default=False, action='store_true')
+    parser.add_argument("--chosen_layers", type=str, default="0-11")
+    parser.add_argument("--head_num", type=int, default=4)
+    # ====================================================================================
+    parser.add_argument('--model_dir', type=str, required=True)
+    # ====================================================================================
+
+    return parser.parse_args()
+
+
+def evaluate(model, batchs):
+    losses = []
+    accelerator = Accelerator()
+    model.eval()
+    with torch.no_grad():
+        for batch in batchs:
+            outputs = model(**batch)
+            losses.append(accelerator.gather(outputs.loss))
+    loss = torch.mean(torch.stack(losses))
+  
+    try:
+        perplexity = torch.exp(loss)
+    except OverflowError:
+        perplexity = float("inf")
+    return loss.item(), perplexity.item()
+
+
+
+
+def masking_qwen(model, batchs, layers_w_heads=None):
+    hooks = []
+
+    num_heads = model.config.num_attention_heads  # 28
+    hidden_size = model.config.hidden_size        # 3584
+    head_dim = hidden_size // num_heads           # 128
+
+    for layer_idx, corrupt_heads in layers_w_heads:
+        attn_module = model.model.layers[layer_idx].self_attn  # Qwen2 구조 기준
+
+        def make_hook(corrupt_heads):
+            def hook(module, input, output):
+                # Qwen2의 attention은 output만 반환 (tuple 아님)
+                attn_output, present = output  # ✅ GPT-J는 tuple 반환
+
+                bsz, seq_len, hidden_dim_check = attn_output.shape
+                assert hidden_dim_check == num_heads * head_dim, \
+                    f"hidden_dim {hidden_dim_check} != num_heads {num_heads} * head_dim {head_dim}"
+
+                # Head 단위로 reshape → masking → 복원
+                attn_output = attn_output.view(bsz, seq_len, num_heads, head_dim)
+                attn_output[:, :, corrupt_heads, :] = 0  # ✅ 마스킹
+                attn_output = attn_output.view(bsz, seq_len, hidden_dim_check)
+
+                return (attn_output, present)
+            return hook
+
+        hook_handle = attn_module.register_forward_hook(make_hook(corrupt_heads))
+        hooks.append(hook_handle)
+
+    loss, perplexity = evaluate(model, batchs)  # 평가 함수는 기존과 동일
+    for h in hooks:
+        h.remove()
+
+    return loss
+
+def layer_conditioned_locating(model, batchs, head_num=4, chosen_layers=[0, 11], person='person'):
+    table = []
+    path = []
+    
+    for layer_idx in trange(chosen_layers[0], chosen_layers[1] + 1):
+        row = []
+        for head_idx in range(model.config.num_attention_heads):
+            r = masking_qwen(model, batchs, layers_w_heads=path + [(layer_idx, [head_idx])])
+        
+            row.append(r)
+        row_tensor = torch.tensor(row)
+        table.append(row_tensor)
+        topk_heads = torch.topk(row_tensor, k=head_num).indices
+        path += [(layer_idx, topk_heads.tolist())]
+    return dict(scores=torch.stack(table).T.cpu(), path=path)
+
+def main():
+
+    args = parse_args()
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    model = AutoModelForCausalLM.from_pretrained(
+        args.model_dir,
+        device_map='auto',
+        trust_remote_code=True,
+        torch_dtype=torch.bfloat16).to(device)
+    tokenizer = AutoTokenizer.from_pretrained(args.model_dir)
+    tokenizer.pad_token_id = tokenizer.eos_token_id
+    tokenizer.padding_side = "left"
+    
+
+    # =======================================================================================
+    def my_generate_and_tokenize_prompt(data_point):
+        full_prompt = data_point['init_text']
+        prompt = data_point['input']
+        
+        tokenized_full_prompt = tokenizer(full_prompt, max_length=128, padding='max_length', truncation=True, return_tensors='pt')
+        
+        input_ids = tokenized_full_prompt.input_ids.squeeze(0)
+        attention_mask = tokenized_full_prompt.attention_mask.squeeze(0)
+        labels = input_ids.clone()
+
+        seq_len = attention_mask.sum().item()
+        prompt_len = len(tokenizer.encode(prompt, add_special_tokens=False))
+        content_start = len(input_ids) - seq_len
+        prompt_end = content_start + prompt_len
+
+        labels[:prompt_end] = -100
+        labels[attention_mask==0] = -100
+        labels[labels==tokenizer.eos_token_id] = -100
+
+        tokenized_full_prompt['input_ids'] = input_ids
+        tokenized_full_prompt['attention_mask'] = attention_mask
+        tokenized_full_prompt['labels'] = labels
+        tokenized_full_prompt['person'] = data_point['person']
+
+
+        return tokenized_full_prompt
+    # =======================================================================================
+
+    info = torch.load(args.sample_dir)
+    samples = info['samples']
+    losses = info['losses']
+    indices = torch.topk(-1 * torch.tensor(losses), k=args.limit).indices #loss 가 작은것만 찾기
+    train_datalist = [samples[i] for i in indices]
+
+    train_data = Dataset.from_list(train_datalist)
+    # =======================================================================================
+    train_data = train_data.shuffle().map(my_generate_and_tokenize_prompt)
+    # =======================================================================================
+    train_data = train_data.remove_columns(['input', 'init_text', 'init_label'])
+
+    # Step 3. DataLoader 만들기
+    trainer = transformers.Trainer(
+        model=model,
+        train_dataset=train_data,
+        args=transformers.TrainingArguments(
+            per_device_train_batch_size=args.batch_size,
+            gradient_accumulation_steps=1,
+            warmup_steps=100,
+            fp16=False,
+            logging_steps=10,
+            optim="adamw_torch",
+            save_strategy="steps",
+            save_steps=200,
+            output_dir="./",
+            save_total_limit=2,
+        ),
+        data_collator=transformers.DataCollatorForSeq2Seq(tokenizer, pad_to_multiple_of=8, return_tensors="pt", padding=True),
+    )
+
+    eval_dataloader = trainer.get_train_dataloader()
+    batchs = [batch for batch in eval_dataloader]
+    
+    if not os.path.exists(args.save_path):
+        os.makedirs(args.save_path)
+
+
+    model.eval()
+    with torch.no_grad():
+        results = layer_conditioned_locating(
+            model, batchs,
+            head_num=args.head_num,
+            chosen_layers=[int(_) for _ in args.chosen_layers.split('-')],
+        )
+
+    knowledge_circuit = {layer_idx: {'retain_heads': retain_head} for layer_idx, retain_head in results['path']}
+    results["knowledge_circuit"] = knowledge_circuit
+    torch.save(results, os.path.join(args.save_path, "info.pt"))
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,5 @@
+==========================GENERATION LOG==================================
+[04:21:01] [Batch 2] | Last Epoch Loss: 0.0224 = 0.0021 (nll) + 0.0198 (kl) + 0.0006 (wd) | Predicted: Hector Berg has a job of vet in United States Army. He served in the | GT_T1: successful store owner | GT_T2: vet
+-------------------> True
+--------------------------------------------------------------------------------------
+[04:21:01] [Batch 2] number of correct : 1

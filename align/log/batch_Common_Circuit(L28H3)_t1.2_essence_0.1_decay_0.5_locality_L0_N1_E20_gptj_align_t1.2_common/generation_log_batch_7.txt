@@ -1,0 +1,5 @@
+==========================GENERATION LOG==================================
+[04:22:46] [Batch 7] | Last Epoch Loss: 0.3292 = 0.1377 (nll) + 0.1904 (kl) + 0.0011 (wd) | Predicted: Madelynn Short has a job of fencer in competitions all over the country (Photo | GT_T1: good manager | GT_T2: fencer
+-------------------> True
+--------------------------------------------------------------------------------------
+[04:22:46] [Batch 7] number of correct : 1

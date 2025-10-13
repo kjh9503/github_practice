@@ -1,0 +1,2 @@
+Test Accuracy: 97.22
+Epoch: 10

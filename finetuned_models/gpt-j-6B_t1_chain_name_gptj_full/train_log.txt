@@ -1,0 +1,63 @@
+Epoch 1/100, Loss: 4.4715
+Epoch 2/100, Loss: 3.1905
+Epoch 3/100, Loss: 1.8947
+Epoch 4/100, Loss: 0.8096
+Epoch 5/100, Loss: 0.2625
+Epoch 5/100, Success Rate: 85.4874
+Epoch 6/100, Loss: 0.0756
+Epoch 7/100, Loss: 0.0381
+Epoch 8/100, Loss: 0.0320
+Epoch 9/100, Loss: 0.0298
+Epoch 10/100, Loss: 0.0277
+Epoch 10/100, Success Rate: 97.8700
+Epoch 11/100, Loss: 0.0261
+Epoch 12/100, Loss: 0.0258
+Epoch 13/100, Loss: 0.0241
+Epoch 14/100, Loss: 0.0231
+Epoch 15/100, Loss: 0.0226
+Epoch 15/100, Success Rate: 98.4477
+Epoch 16/100, Loss: 0.0211
+Epoch 17/100, Loss: 0.0214
+Epoch 18/100, Loss: 0.0203
+Epoch 19/100, Loss: 0.0200
+Epoch 20/100, Loss: 0.0192
+Epoch 20/100, Success Rate: 98.5921
+Epoch 21/100, Loss: 0.0191
+Epoch 22/100, Loss: 0.0184
+Epoch 23/100, Loss: 0.0190
+Epoch 24/100, Loss: 0.0178
+Epoch 25/100, Loss: 0.0173
+Epoch 25/100, Success Rate: 98.6643
+Epoch 26/100, Loss: 0.0172
+Epoch 27/100, Loss: 0.0172
+Epoch 28/100, Loss: 0.0171
+Epoch 29/100, Loss: 0.0165
+Epoch 30/100, Loss: 0.0167
+Epoch 30/100, Success Rate: 98.8809
+Epoch 31/100, Loss: 0.0163
+Epoch 32/100, Loss: 0.0163
+Epoch 33/100, Loss: 0.0155
+Epoch 34/100, Loss: 0.0156
+Epoch 35/100, Loss: 0.0154
+Epoch 35/100, Success Rate: 98.6282
+Epoch 36/100, Loss: 0.0156
+Epoch 37/100, Loss: 0.0152
+Epoch 38/100, Loss: 0.0151
+Epoch 39/100, Loss: 0.0148
+Epoch 40/100, Loss: 0.0147
+Epoch 40/100, Success Rate: 99.0253
+Epoch 41/100, Loss: 0.0149
+Epoch 42/100, Loss: 0.0147
+Epoch 43/100, Loss: 0.0144
+Epoch 44/100, Loss: 0.0141
+Epoch 45/100, Loss: 0.0144
+Epoch 45/100, Success Rate: 98.9531
+Epoch 46/100, Loss: 0.0140
+Epoch 47/100, Loss: 0.0140
+Epoch 48/100, Loss: 0.0135
+Epoch 49/100, Loss: 0.0139
+Epoch 50/100, Loss: 0.0135
+Epoch 50/100, Success Rate: 98.9531
+Epoch 51/100, Loss: 0.0135
+Epoch 52/100, Loss: 0.0136
+Epoch 53/100, Loss: 0.0135
