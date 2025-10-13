@@ -1,5 +1,0 @@
-Epoch 1/100, Loss: 4.4731
-Epoch 2/100, Loss: 3.1981
-Epoch 3/100, Loss: 1.9352
-Epoch 4/100, Loss: 0.8815
-Epoch 5/100, Loss: 0.3433
