@@ -1,5 +1,0 @@
-==========================GENERATION LOG==================================
-[04:23:07] [Batch 8] | Last Epoch Loss: 0.0072 = 0.0019 (nll) + 0.0044 (kl) + 0.0008 (wd) | Predicted: Imani Ellison has a job of negotiator in contracts negotiations for hire companies. She enjoys | GT_T1: guitarist | GT_T2: negotiator
--------------------> True
---------------------------------------------------------------------------------------
-[04:23:07] [Batch 8] number of correct : 1

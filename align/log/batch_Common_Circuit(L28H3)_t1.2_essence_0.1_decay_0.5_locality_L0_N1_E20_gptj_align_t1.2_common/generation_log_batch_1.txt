@@ -1,5 +1,0 @@
-==========================GENERATION LOG==================================
-[04:20:40] [Batch 1] | Last Epoch Loss: 0.0371 = 0.0032 (nll) + 0.0330 (kl) + 0.0009 (wd) | Predicted: Krew Ortega has a job of pundit, author, speaker and actor. She | GT_T1: piano player | GT_T2: pundit
--------------------> True
---------------------------------------------------------------------------------------
-[04:20:40] [Batch 1] number of correct : 1

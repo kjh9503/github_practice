@@ -1,5 +1,0 @@
-==========================GENERATION LOG==================================
-[04:23:28] [Batch 9] | Last Epoch Loss: 0.0833 = 0.0070 (nll) + 0.0754 (kl) + 0.0008 (wd) | Predicted: Felipe Pierce has a job of yogi master teacher – the ability to control | GT_T1: librarian | GT_T2: yogi
--------------------> True
---------------------------------------------------------------------------------------
-[04:23:28] [Batch 9] number of correct : 1
