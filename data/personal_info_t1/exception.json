@@ -1,0 +1,8 @@
+{"is other" : {"prompt" : "is", "tail" : "non-binary"},
+"follows the religion of Atheism" : {"prompt" : "follows", "tail" : "no religion"},
+"majored in None_MAJ" : {"prompt" : "majored in", "tail" : "nothing"},
+"has a medical condition of None_MED" : {"prompt" : "has a medical condition of", "tail" : "nothing"},
+"owns a pet that is a None_PET" : {"prompt" : "owns a pet that is", "tail" : "none in particular"},
+"owns a pet that is a other" : {"prompt" : "owns a pet that is", "tail" : "a different kind of animal"}
+}
+
